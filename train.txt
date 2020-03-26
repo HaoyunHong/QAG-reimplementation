@@ -1,0 +1,4810 @@
+[
+  [0,
+  "international journal of intelligent systems and applications",
+  "international journal of hybrid intelligent systems   recent advances in intelligent paradigms fusion and their applications"
+  ],
+  [0,
+  "international journal of intelligent systems and applications",
+  "information sciences—informatics and computer science: an international journal   special issue: intelligent information systems and applications"
+  ],
+  [1,
+  "international journal of intelligent systems and applications",
+  "international journal of intelligent systems   granular computing: models and applications"
+  ],
+  [0,
+  "international journal of intelligent systems and applications",
+  "international journal of knowledge based and intelligent engineering systems   advanced intelligent techniques in engineering applications"
+  ],
+  [0,
+  "international journal of intelligent systems and applications",
+  "international journal of knowledge based and intelligent engineering systems   intelligent information processing: techniques and applications"
+  ],
+  [0,
+  "international journal of intelligent systems and applications",
+  "international journal of knowledge based and intelligent engineering systems   soft computing and its applications to e business"
+  ],
+  [1,
+  "international journal of intelligent systems and applications",
+  "international journal of intelligent systems   decision sciences: foundations and applications"
+  ],
+  [0,
+  "the electrician",
+  "rural electrician"
+  ],
+  [1,
+  "distribution and utilization",
+  "distribution   utilization"
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of university of jinan social science edition "
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of jinan university natural science edition "
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of university of jinan science and technology "
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of jinan university science and technology "
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of jinan university medicine edition "
+  ],
+  [1,
+  "journal of university of jinan",
+  "journal of jinan university social science edition "
+  ],
+  [1,
+  "acm transactions on computing education",
+  "acm transactions on computing education  toce "
+  ],
+  [1,
+  "acm transactions on computing education",
+  "acm transactions on computing education   acm journal of educational resources in computing"
+  ],
+  [0,
+  "governance",
+  "journal of e governance"
+  ],
+  [0,
+  "hematology   transfusion international journal",
+  "international journal of blood transfusion and hematology"
+  ],
+  [1,
+  "philosophical transactions of the royal society a",
+  "philosophical transactions of the royal society of london"
+  ],
+  [1,
+  "philosophical transactions of the royal society a",
+  "philosophical transactions of the royal society b: biological sciences"
+  ],
+  [1,
+  "journal of henan polytechnic university",
+  "journal of henan polytechnic university social sciences "
+  ],
+  [1,
+  "journal of henan polytechnic university",
+  "journal of henan polytechnic university natural science "
+  ],
+  [1,
+  "journal of inner mongolia polytechnic university",
+  "journal of inner mongolia polytechnic university natural science "
+  ],
+  [1,
+  "journal of inner mongolia polytechnic university",
+  "journal of inner mongolia polytechnic university social science "
+  ],
+  [0,
+  "fine arts journal",
+  "journal of hubei institute of fine arts"
+  ],
+  [0,
+  "fine arts journal",
+  "journal of nanjing arts institute fine arts   design "
+  ],
+  [0,
+  "fine arts journal",
+  "journal of nanjing arts institute fine arts   design"
+  ],
+  [0,
+  "fine arts journal",
+  "hubei institute of fine arts journal"
+  ],
+  [0,
+  "fine arts journal",
+  "journal of tianjin academy of fine arts"
+  ],
+  [1,
+  "on optical information systems",
+  "on optical information systems '86"
+  ],
+  [0,
+  "world journal of clinical oncology",
+  "chinese journal of clinical oncology"
+  ],
+  [0,
+  "world journal of clinical oncology",
+  "journal of basic and clinical oncology"
+  ],
+  [0,
+  "world journal of clinical oncology",
+  "american journal of clinical oncology cancer clinical trials"
+  ],
+  [0,
+  "the journal of law and information science",
+  "journal of the east china university of political science and law"
+  ],
+  [0,
+  "the journal of law and information science",
+  "journal of shanghai institute of political science   law"
+  ],
+  [0,
+  "the journal of law and information science",
+  "the journal of fujian institute of political science   law"
+  ],
+  [0,
+  "the journal of law and information science",
+  "law science  journal of northwest university of politics and law "
+  ],
+  [0,
+  "the journal of law and information science",
+  "journal of fujian college of political science   law"
+  ],
+  [0,
+  "the journal of law and information science",
+  "science of law journal of northwest university of political science and law "
+  ],
+  [0,
+  "the journal of law and information science",
+  "journal of fujian institute of political science   law"
+  ],
+  [0,
+  "the journal of law and information science",
+  "journal of southwest university of political science   law"
+  ],
+  [1,
+  "journal of hehai university",
+  "journal of hehai university social sciences "
+  ],
+  [1,
+  "journal of hehai university",
+  "journal of hehai university  natural sciences  "
+  ],
+  [1,
+  "journal of mining and metallurgy section a mining",
+  "journal of mining and metallurgy section b metallurgy"
+  ],
+  [0,
+  "international journal of multimedia information retrieval",
+  "international journal of imaging systems and technology   multimedia information retrieval"
+  ],
+  [1,
+  "journal of nanjing institute of physical education",
+  "journal of nanjing institute of physical education social science "
+  ],
+  [1,
+  "journal of nanjing institute of physical education",
+  "journal of nanjing institute of physical education natural science "
+  ],
+  [1,
+  "journal of nanjing institute of physical education",
+  "journal of nanjing institute of physical education  natural science "
+  ],
+  [1,
+  "chinese journal of bone and joint",
+  "chinese journal of bone and joint surgery"
+  ],
+  [0,
+  "biomedical journal",
+  "journal of biomedical engineering research"
+  ],
+  [0,
+  "biomedical journal",
+  "journal of biomedical imaging"
+  ],
+  [0,
+  "biomedical journal",
+  "chinese journal of biomedical engineering"
+  ],
+  [0,
+  "biomedical journal",
+  "shanghai journal of biomedical engineering"
+  ],
+  [0,
+  "infectious diseases",
+  "workshop for control of emerging infectious diseases"
+  ],
+  [1,
+  "infectious diseases",
+  "journal of infectious diseases"
+  ],
+  [0,
+  "materials science and engineering r",
+  "polymer materials science   engineering"
+  ],
+  [0,
+  "materials science and engineering r",
+  "polymeric materials science   engineering"
+  ],
+  [1,
+  "materials science and engineering r",
+  "iop conference series: materials science and engineering"
+  ],
+  [1,
+  "materials science and engineering r",
+  "journal of materials science and engineering"
+  ],
+  [0,
+  "journal of mathematics research",
+  "ibm journal of research and development   mathematics and computing"
+  ],
+  [1,
+  "the imaging science journal",
+  "imaging science journal"
+  ],
+  [1,
+  "economics and human biology",
+  "economics   human biology"
+  ],
+  [0,
+  "open journal of civil engineering",
+  "journal of information technology in civil engineering and architecture"
+  ],
+  [0,
+  "open journal of civil engineering",
+  "journal of jilin institute of architectural   civil engineering"
+  ],
+  [0,
+  "open journal of civil engineering",
+  "journal of beijing institute of civil engineering and architecture"
+  ],
+  [1,
+  "the observatory",
+  "observatory"
+  ],
+  [0,
+  "modern medicine",
+  "modern medicine journal of china"
+  ],
+  [0,
+  "modern medicine",
+  "journal of modern lboratory medicine"
+  ],
+  [0,
+  "modern medicine",
+  "modern traditional chinese medicine"
+  ],
+  [0,
+  "modern medicine",
+  "modern medicine   health"
+  ],
+  [0,
+  "journal of nature and science",
+  "journal of yulin normal university nature science "
+  ],
+  [0,
+  "journal of nature and science",
+  "journal of qinghai university nature science "
+  ],
+  [0,
+  "journal of nature and science",
+  "journal of qinghai university nature science edition "
+  ],
+  [0,
+  "journal of nature and science",
+  "journal of jiangsu institute of education nature science "
+  ],
+  [0,
+  "the consultant",
+  "the farmers consultant"
+  ],
+  [0,
+  "the consultant",
+  "farmer's consultant"
+  ],
+  [1,
+  "genomics proteomics   bioinformatics",
+  "genomics  proteomics  bioinformatics"
+  ],
+  [1,
+  "journal of jilin institute of architectural and civil",
+  "journal of jilin institute of architectural   civil"
+  ],
+  [1,
+  "journal of jilin institute of architectural and civil",
+  "journal of jilin institute of architectural   civil engineering"
+  ],
+  [0,
+  "water supply",
+  "city and town water supply"
+  ],
+  [1,
+  "diagnostic and interventional imaging",
+  "journal of diagnostic imaging   interventional radiology"
+  ],
+  [1,
+  "the journal of spinal surgery",
+  "journal of spinal surgery"
+  ],
+  [1,
+  "canadian journal of zoology",
+  "canadian journal of zoology revue canadienne de zoologie"
+  ],
+  [1,
+  "journal of the chinese society of corrosion and protection",
+  "journal of chinese society for corrosion and protection"
+  ],
+  [1,
+  "journal of the chinese society of corrosion and protection",
+  "journal of chinese society for corrosion and protection"
+  ],
+  [1,
+  "journal of shenyang institute of engineering",
+  "journal of shenyang institute of engineering natural science "
+  ],
+  [0,
+  "journal of shenyang institute of engineering",
+  "journal of shenyang architectural and civil engineering institute social science "
+  ],
+  [1,
+  "journal of shenyang institute of engineering",
+  "journal of shenyang institute of engineering social sciences "
+  ],
+  [1,
+  "the review of economic studies",
+  "review of economic studies"
+  ],
+  [1,
+  "electronic journal of combinatorics",
+  "the electronic journal of combinatorics"
+  ],
+  [1,
+  "the philosophical review",
+  "philosophical review"
+  ],
+  [0,
+  "the philosophical review",
+  "dialogue canadian philosophical review"
+  ],
+  [0,
+  "clinical neurosurgery",
+  "chinese journal of clinical neurosurgery"
+  ],
+  [1,
+  "clinical neurosurgery",
+  "journal of clinical neurosurgery"
+  ],
+  [0,
+  "computing systems in engineering",
+  "acm sigchi symposium on engineering interactive computing systems"
+  ],
+  [0,
+  "computing systems in engineering",
+  "engineering interactive computing systems"
+  ],
+  [0,
+  "open journal of pediatrics",
+  "journal of clinical pediatrics"
+  ],
+  [0,
+  "open journal of pediatrics",
+  "journal of neurosurgery pediatrics"
+  ],
+  [1,
+  "open journal of pediatrics",
+  "journal of pediatrics"
+  ],
+  [1,
+  "trends in food science and technology",
+  "trends in food science   technology"
+  ],
+  [0,
+  "journal of technology and information education",
+  "journal of technology and teacher education"
+  ],
+  [0,
+  "journal of technology and information education",
+  "journal of continue education of hebei university of technology"
+  ],
+  [1,
+  "journal of urology for clinicians",
+  "journal of urology for clinicians electronic version "
+  ],
+  [0,
+  "journal of spine",
+  "journal of neurosurgery spine"
+  ],
+  [1,
+  "journal of spine",
+  "spine journal"
+  ],
+  [1,
+  "paradigms",
+  "new security paradigms and workshop"
+  ],
+  [1,
+  "paradigms",
+  "the new security paradigms workshop"
+  ],
+  [1,
+  "paradigms",
+  "workshop on new security paradigms"
+  ],
+  [0,
+  "journal of information engineering and applications",
+  "international journal of supercomputer applications and high performance engineering"
+  ],
+  [0,
+  "the electronic journal",
+  "the electronic journal of combinatorics"
+  ],
+  [0,
+  "the electronic journal",
+  "ssrn electronic journal"
+  ],
+  [0,
+  "journal of shaanxi normal university",
+  "journal of shaanxi xueqian normal university"
+  ],
+  [0,
+  "journal of shaanxi normal university",
+  "journal of further education of shaanxi normal university"
+  ],
+  [1,
+  "journal of shaanxi normal university",
+  "journal of shaanxi normal university natural science edition "
+  ],
+  [1,
+  "journal of shaanxi normal university",
+  "journal of shaanxi normal university philosophy and social sciences edition "
+  ],
+  [1,
+  "the journal of hand surgery",
+  "journal of hand surgery american volume"
+  ],
+  [1,
+  "the journal of hand surgery",
+  "journal of hand surgery british and european volume"
+  ],
+  [1,
+  "the journal of hand surgery",
+  "journal of hand surgery european volume"
+  ],
+  [1,
+  "the canadian journal of psychiatry",
+  "canadian journal of psychiatry revue canadienne de psychiatrie"
+  ],
+  [0,
+  "the journal of philosophy",
+  "phronesis a journal for ancient philosophy"
+  ],
+  [0,
+  "the journal of philosophy",
+  "british journal for the philosophy of science"
+  ],
+  [1,
+  "the journal of philosophy",
+  "journal of philosophy"
+  ],
+  [0,
+  "the journal of philosophy",
+  "theoria a swedish journal of philosophy"
+  ],
+  [0,
+  "the journal of philosophy",
+  "the journal of speculative philosophy"
+  ],
+  [1,
+  "the philosophical quarterly",
+  "philosophical quarterly"
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university  med sci "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university natural science edition "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university medical sciences "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university  medical sciences "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university social science edition "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university  social science edition "
+  ],
+  [1,
+  "journal of yanan university",
+  "journal of yanan university medical science "
+  ],
+  [1,
+  "journal of gay and lesbian social services",
+  "journal of gay   lesbian social services"
+  ],
+  [1,
+  "the journal of computer based instruction",
+  "journal of computer based instruction"
+  ],
+  [0,
+  "journal of industrial hygiene",
+  "chinese journal of urban and rural industrial hygiene"
+  ],
+  [0,
+  "journal of industrial hygiene",
+  "chinese journal of industrial hygiene and occupational diseases"
+  ],
+  [0,
+  "journal of industrial hygiene",
+  "chinese journal of urban and industrial hygiene"
+  ],
+  [1,
+  "the journal of membrane biology",
+  "journal of membrane biology"
+  ],
+  [1,
+  "manager journal",
+  "journal of tianjin manager college"
+  ],
+  [1,
+  "journal of food safety and quality",
+  "journal of food safety   quality"
+  ],
+  [1,
+  "journal of shandong institute of mining and technology",
+  "journal of shandong institute of mining and technology social science "
+  ],
+  [1,
+  "european journal of dentistry",
+  "european journal of paediatric dentistry"
+  ],
+  [1,
+  "ecology and the environment",
+  "ecology and environment"
+  ],
+  [1,
+  "journal of economic dynamics and control",
+  "journal of economic dynamics   control"
+  ],
+  [0,
+  "international journal of general medicine",
+  "international journal of traditional chinese medicine"
+  ],
+  [0,
+  "teaching english in the two year college",
+  "college english teaching and research"
+  ],
+  [1,
+  "journal of yanbian university",
+  "journal of yanbian university natural science edition "
+  ],
+  [1,
+  "journal of yanbian university",
+  "journal of yanbian university  natural science edition "
+  ],
+  [1,
+  "journal of yanbian university",
+  "journal of yanbian university social sciences edition "
+  ],
+  [1,
+  "journal of yanbian university",
+  "journal of yanbian university natural science "
+  ],
+  [1,
+  "journal of yanbian university",
+  "journal of yanbian university social sciences "
+  ],
+  [0,
+  "international journal of home science",
+  "international social science journal chinese edition "
+  ],
+  [0,
+  "international journal of home science",
+  "international journal of geographical information science   spatial ecology"
+  ],
+  [0,
+  "international journal of home science",
+  "international journal of computer science   information technology"
+  ],
+  [0,
+  "international journal of home science",
+  "acis international journal of computer   information science"
+  ],
+  [1,
+  "pharmaceutical engineering",
+  "pharmaceutical engineering design"
+  ],
+  [1,
+  "journal of yangtze university agricultural science volume",
+  "journal of yangtze university natural science edition agricultural science volume"
+  ],
+  [1,
+  "journal of yangtze university agricultural science volume",
+  "journal of yangtze university natural science edition  agricultural science volume"
+  ],
+  [1,
+  "the monist",
+  "monist"
+  ],
+  [0,
+  "open journal of anesthesiology",
+  "journal of clinical anesthesiology"
+  ],
+  [0,
+  "technology and learning",
+  "programmed learning and educational technology"
+  ],
+  [0,
+  "early american studies",
+  "english and american literary studies"
+  ],
+  [0,
+  "early american studies",
+  "american studies quarterly"
+  ],
+  [1,
+  "clinical engineering",
+  "clinical medical   engineering"
+  ],
+  [1,
+  "noise   health",
+  "noise and health"
+  ],
+  [0,
+  "the sociological review",
+  "sociological review of china"
+  ],
+  [1,
+  "the sociological review",
+  "sociological review"
+  ],
+  [0,
+  "the european journal of medicine",
+  "european journal of nuclear medicine"
+  ],
+  [0,
+  "transactions of j w r i",
+  "roars transactions"
+  ],
+  [0,
+  "transactions of j w r i",
+  "transactions of the sdps"
+  ],
+  [0,
+  "transactions of j w r i",
+  "ieice transactions"
+  ],
+  [0,
+  "transactions of j w r i",
+  "cmg transactions"
+  ],
+  [0,
+  "b c journal of special education",
+  "a journal of modern special education"
+  ],
+  [0,
+  "journal of early modern studies",
+  "journal of modern chinese studies"
+  ],
+  [0,
+  "journal of early modern studies",
+  "the journal of modern periodical studies"
+  ],
+  [0,
+  "open journal of forestry",
+  "journal of zhejiang forestry college"
+  ],
+  [0,
+  "open journal of forestry",
+  "journal of inner mongolia forestry"
+  ],
+  [0,
+  "open journal of forestry",
+  "state academy of forestry administration journal"
+  ],
+  [0,
+  "open journal of forestry",
+  "journal of chinese urban forestry"
+  ],
+  [0,
+  "management international",
+  "proceedings of the international workshop on semantic web information management"
+  ],
+  [0,
+  "management international",
+  "international association for management of technology"
+  ],
+  [0,
+  "management international",
+  "international journal of knowledge management"
+  ],
+  [0,
+  "management international",
+  "proceedings of the international symposium on memory management"
+  ],
+  [0,
+  "management international",
+  "proceedings of the fifth international workshop on data management on new hardware"
+  ],
+  [0,
+  "management international",
+  "proceedings of the first international workshop on cloud data management"
+  ],
+  [0,
+  "management international",
+  "proceedings of the fifth international workshop on cloud data management"
+  ],
+  [0,
+  "management international",
+  "international journal of management in education"
+  ],
+  [0,
+  "management international",
+  "proceedings of the third international workshop on cloud data management"
+  ],
+  [0,
+  "journal of grid computing",
+  "journal of computer science and technology   grid computing"
+  ],
+  [1,
+  "journal of grid computing",
+  "the journal of grid computing"
+  ],
+  [0,
+  "chemical engineering world",
+  "the chemical engineering journal"
+  ],
+  [0,
+  "chemical engineering world",
+  "higher education in chemical engineering"
+  ],
+  [0,
+  "chemical engineering world",
+  "journal of chemical and engineering data"
+  ],
+  [0,
+  "chemical engineering world",
+  "chemical engineering construction"
+  ],
+  [0,
+  "chemical engineering world",
+  "chemical engineering design"
+  ],
+  [0,
+  "chemical engineering world",
+  "computers  chemical engineering"
+  ],
+  [0,
+  "chemical engineering world",
+  "chemical engineering china "
+  ],
+  [0,
+  "open journal of stomatology",
+  "journal of international stomatology"
+  ],
+  [0,
+  "european journal of general medicine",
+  "european journal of nuclear medicine"
+  ],
+  [0,
+  "journal of chemistry",
+  "journal of polymer science part a polymer chemistry"
+  ],
+  [0,
+  "journal of chemistry",
+  "journal of applied chemistry"
+  ],
+  [0,
+  "journal of chemistry",
+  "journal of combinatorial chemistry"
+  ],
+  [0,
+  "journal of chemistry",
+  "russian journal of physical chemistry"
+  ],
+  [1,
+  "infectious disorders drug targets",
+  "infectious disorders   drug targets formerly current drug targets   infectious disorders "
+  ],
+  [1,
+  "the american journal of economics and sociology",
+  "american journal of economics and sociology"
+  ],
+  [1,
+  "chinese journal of interventional radiology",
+  "contemporary medicine chinese journal of interventional radiology "
+  ],
+  [0,
+  "journal of software",
+  "journal of computer and software engineering"
+  ],
+  [0,
+  "journal of software",
+  "software law journal"
+  ],
+  [0,
+  "journal of software",
+  "journal of software maintenance"
+  ],
+  [1,
+  "iron and steel technology",
+  "iron   steel technology"
+  ],
+  [0,
+  "iron and steel technology",
+  "journal of baotou university fo iron and steel technology"
+  ],
+  [1,
+  "nuclear electronics and detection technology",
+  "nuclear electronics   detection technology"
+  ],
+  [1,
+  "journal of guizhou university of technology",
+  "journal of guizhou university of technology social science edition "
+  ],
+  [1,
+  "journal of guizhou university of technology",
+  "journal of guizhou university of technology social science edition "
+  ],
+  [1,
+  "journal of guizhou university of technology",
+  "journal of guizhou university of technology natural science edition "
+  ],
+  [1,
+  "journal of jiling university",
+  "journal of jiling university  earth science edition "
+  ],
+  [1,
+  "american journal of hospice and palliative medicine",
+  "american journal of hospice   palliative medicine"
+  ],
+  [0,
+  "international journal of one health",
+  "journal of international reproductive health family planning"
+  ],
+  [0,
+  "journal of signal and information processing",
+  "journal of vlsi signal processing systems"
+  ],
+  [0,
+  "journal of signal and information processing",
+  "eurasip journal on applied signal processing"
+  ],
+  [0,
+  "journal of signal and information processing",
+  "eurasip journal on applied signal processing"
+  ],
+  [1,
+  "drugs and clinic",
+  "drugs   clinic"
+  ],
+  [1,
+  "journal of speculative philosophy",
+  "the journal of speculative philosophy"
+  ],
+  [1,
+  "journal of liaocheng university",
+  "journal of liaocheng university social science edition "
+  ],
+  [1,
+  "journal of liaocheng university",
+  "journal of liaocheng university natural science edition "
+  ],
+  [1,
+  "journal of liaocheng university",
+  "journal of liaocheng university scial sciences edition "
+  ],
+  [1,
+  "journal of liaocheng university",
+  "journal of liaocheng university social sciences edition "
+  ],
+  [1,
+  "journal of common market studies",
+  "jcms: journal of common market studies"
+  ],
+  [0,
+  "international journal of philosophy",
+  "cultura international journal of philosophy of culture and axiology"
+  ],
+  [0,
+  "the journal of teaching and learning",
+  "international journal of computer assisted language learning and teaching"
+  ],
+  [1,
+  "journal of hebei polytechnic university",
+  "journal of hebei polytechnic university social science edition "
+  ],
+  [1,
+  "journal of hebei polytechnic university",
+  "journal of hebei polytechnic university natural science edition "
+  ],
+  [0,
+  "journal of life sciences",
+  "journal of zhejiang university agriculture and life sciences "
+  ],
+  [0,
+  "journal of life sciences",
+  "journal of chromatography b analytical technologies in the biomedical and life sciences"
+  ],
+  [1,
+  "journal of the university of electronic science and technology of china",
+  "journal of university of electronic science and technology of china social sciences edition "
+  ],
+  [1,
+  "journal of yangtze university medicine",
+  "journal of yangtze university natural science edition medicine v"
+  ],
+  [0,
+  "world journal of dentistry",
+  "european journal of paediatric dentistry"
+  ],
+  [1,
+  "journal of jiamusi university",
+  "journal of jiamusi university natural science edition "
+  ],
+  [1,
+  "the journal of molecular diagnostics",
+  "journal of molecular diagnostics"
+  ],
+  [0,
+  "management   economic information",
+  " journal of shaanxi administration school and shaanxi economic management school"
+  ],
+  [0,
+  "management   economic information",
+  "farm economic management"
+  ],
+  [0,
+  "management   economic information",
+  "contemporary economic management"
+  ],
+  [1,
+  "journal of huaibei normal university",
+  "journal of huaibei normal university natural science edition "
+  ],
+  [1,
+  "journal of huaibei normal university",
+  "journal of huaibei normal university philosophy and social sciences "
+  ],
+  [1,
+  "journal of huaibei normal university",
+  "journal of huaibei normal university natural science edition  "
+  ],
+  [0,
+  "laws",
+  "new laws and regulations"
+  ],
+  [1,
+  "the georgia review",
+  "georgia review"
+  ],
+  [0,
+  "the journal of pain",
+  "clinical journal of pain"
+  ],
+  [1,
+  "the journal of pain",
+  "journal of pain"
+  ],
+  [0,
+  "the journal of pain",
+  "pain clinlc journal"
+  ],
+  [0,
+  "computational and theoretical chemistry",
+  "international conference on theoretical and high performance computational chemistry 2012"
+  ],
+  [0,
+  "computational and theoretical chemistry",
+  "international conference on theoretical and high performance computational chemistry 2011"
+  ],
+  [1,
+  "computational and theoretical chemistry",
+  "journal of theoretical   computational chemistry"
+  ],
+  [0,
+  "medical equipment journal",
+  "medical journal of central equipment headquarters"
+  ],
+  [0,
+  "today s or nurse",
+  "the nurse practitioner"
+  ],
+  [0,
+  "today s or nurse",
+  "family nurse"
+  ],
+  [1,
+  "journal of communication university of china",
+  "modern communication journal of communication university of china "
+  ],
+  [1,
+  "journal of communication university of china",
+  "journal of communication university of china science and technology "
+  ],
+  [1,
+  "journal of communication university of china",
+  "modern communication journal of communication university of china"
+  ],
+  [1,
+  "botany",
+  "botany botanique"
+  ],
+  [1,
+  "protection from corrosion",
+  "corrosion   protection"
+  ],
+  [0,
+  "protection from corrosion",
+  "petrochemical corrosion and protection"
+  ],
+  [1,
+  "protection from corrosion",
+  "corrosion @ protection"
+  ],
+  [1,
+  "journal of clinical toxicology",
+  "journal of toxicology clinical toxicology"
+  ],
+  [1,
+  "computers in education",
+  "world conference on computers in education"
+  ],
+  [1,
+  "computers in education",
+  "computers and advanced technology in education"
+  ],
+  [1,
+  "the cleft palate journal",
+  "cleft palate craniofacial journal"
+  ],
+  [1,
+  "the chemical engineer",
+  "chemical engineer"
+  ],
+  [1,
+  "nuclear and particle physics proceedings",
+  "journal of physics g nuclear and particle physics"
+  ],
+  [0,
+  "english teaching",
+  "elementary english teaching journal"
+  ],
+  [0,
+  "english teaching",
+  "college english teaching and research"
+  ],
+  [0,
+  "international journal of design",
+  "international journal of art   design education"
+  ],
+  [0,
+  "international journal of design",
+  "international journal of online pedagogy and course design"
+  ],
+  [1,
+  "chinese journal of ocular trauma and occupational eye disease",
+  "chinese journal of ocular trauma and occupational eye disease with ophthalmic surgery "
+  ],
+  [0,
+  "psychology today",
+  "informatics and psychology workshop"
+  ],
+  [0,
+  "psychology today",
+  "informatics and psychology"
+  ],
+  [0,
+  "psychology today",
+  "informatics and psychology workshop"
+  ],
+  [0,
+  "psychology today",
+  "psychology exploration"
+  ],
+  [0,
+  "psychology today",
+  "journal of psychology"
+  ],
+  [1,
+  "politics and policy",
+  "politics   policy"
+  ],
+  [1,
+  "journal of ningbo university",
+  "journal of ningbo university liberal arts edition "
+  ],
+  [1,
+  "journal of ningbo university",
+  "journal of ningbo university educational science edition "
+  ],
+  [0,
+  "journal of communication and computer",
+  "journal of computer security   advances in security for communication networks"
+  ],
+  [1,
+  "journal of baoji university of arts and sciences",
+  "journal of baoji university of arts and sciences social sciences edition "
+  ],
+  [1,
+  "journal of baoji university of arts and sciences",
+  "journal of baoji university of arts and sciences natural science edition "
+  ],
+  [1,
+  "journal of baoji university of arts and sciences",
+  "journal of baoji university of arts and sciences social sciences "
+  ],
+  [1,
+  "journal of baoji university of arts and sciences",
+  "journal of baoji university of arts and sciences social science edition "
+  ],
+  [1,
+  "biographical memoirs of fellows of the royal society",
+  "biographical memoirs of fellows of the royal society  1955 2000 "
+  ],
+  [0,
+  "healthcare",
+  "e healthcare"
+  ],
+  [1,
+  "journal of guangzhou university",
+  "journal of guangzhou university social science edition "
+  ],
+  [1,
+  "journal of guangzhou university",
+  "journal of guangzhou university natural science edition "
+  ],
+  [0,
+  "software engineering   management",
+  "software engineering for tailor made data management"
+  ],
+  [0,
+  "software engineering   management",
+  "sera'04 proceedings of the second international conference on software engineering research  management and applications"
+  ],
+  [0,
+  "materials today proceedings",
+  "new chemical materials"
+  ],
+  [0,
+  "materials today proceedings",
+  "functional materials information"
+  ],
+  [1,
+  "journal of central china normal university",
+  "journal of central china normal university natural sciences "
+  ],
+  [1,
+  "journal of central china normal university",
+  "journal of central china normal university humanities and social sciences "
+  ],
+  [0,
+  "modern nursing home",
+  "modern clinical nursing"
+  ],
+  [0,
+  "open journal of statistics",
+  "chinese journal of health statistics"
+  ],
+  [0,
+  "open journal of statistics",
+  "chinaese journal of hospital statistics"
+  ],
+  [1,
+  "the rand journal of economics",
+  "rand journal of economics"
+  ],
+  [1,
+  "analysis and optimization of systems",
+  "proceedings of the 7th international conference on analysis and optimization for systems"
+  ],
+  [1,
+  "analysis and optimization of systems",
+  "analysis and optimization of differential systems"
+  ],
+  [1,
+  "analysis and optimization of systems",
+  "analysis and optimization of differential systems"
+  ],
+  [0,
+  "antibiotics",
+  "world notes on antibiotics"
+  ],
+  [1,
+  "antibiotics",
+  "journal of antibiotics"
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of xi'an university of arts and science social sciences edition "
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of baoji university of arts and sciences social sciences edition "
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of chongqing university of arts and sciences social sciences edition "
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of baoji university of arts and sciences social science edition "
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of xiamen university arts   social sciences "
+  ],
+  [0,
+  "arts and social sciences journal",
+  "journal of baoji university of arts and sciences social sciences "
+  ],
+  [1,
+  "revista colombiana de computacion colombian journal of computation",
+  "revista colombiana de computacion   colombian journal of computation"
+  ],
+  [1,
+  "journal of imaging",
+  "imaging science journal"
+  ],
+  [0,
+  "journal of imaging",
+  "journal of biomedical imaging"
+  ],
+  [0,
+  "world studies in education",
+  "studies in foreign education"
+  ],
+  [0,
+  "world studies in education",
+  "studies of finance and accounting in education"
+  ],
+  [0,
+  "world studies in education",
+  "studies in preschool education"
+  ],
+  [0,
+  "world studies in education",
+  "studies in foreign education"
+  ],
+  [0,
+  "world studies in education",
+  "studies in ideological education"
+  ],
+  [0,
+  "world studies in education",
+  "studies in preschool education"
+  ],
+  [0,
+  "world studies in education",
+  "studies in early childhood education"
+  ],
+  [1,
+  "the journal of chemical thermodynamics",
+  "journal of chemical thermodynamics"
+  ],
+  [1,
+  "ieee transactions on control systems and technology",
+  "ieee transactions on control systems technology"
+  ],
+  [1,
+  "law and humanities",
+  "law  culture and the humanities"
+  ],
+  [1,
+  "journal of baoji college of arts and science",
+  "journal of baoji college of arts and science natural science edition "
+  ],
+  [1,
+  "journal of baoji college of arts and science",
+  "journal of baoji college of arts and science social science "
+  ],
+  [0,
+  "the journal of commerce",
+  "journal of tianjin college of commerce"
+  ],
+  [1,
+  "biology and philosophy",
+  "biology   philosophy"
+  ],
+  [1,
+  "in vitro cellular   developmental biology plant",
+  "in vitro cellular   developmental biology plant"
+  ],
+  [0,
+  "journal of civil engineering and architecture",
+  "journal of information technology in civil engineering and architecture"
+  ],
+  [0,
+  "journal of civil engineering and architecture",
+  "journal of beijing institute of civil engineering and architecture"
+  ],
+  [1,
+  "northwest education",
+  "journal of the northwest adult education"
+  ],
+  [1,
+  "mathematical sciences",
+  "proceedings of the indian academy of sciences mathematical sciences"
+  ],
+  [0,
+  "world poultry",
+  "pigs and poultry"
+  ],
+  [0,
+  "world poultry",
+  "shandong poultry"
+  ],
+  [1,
+  "air transport world",
+  "air transport   business"
+  ],
+  [0,
+  "science and research",
+  "atmospheric science research and application"
+  ],
+  [0,
+  "science and research",
+  "textile science research"
+  ],
+  [0,
+  "science and research",
+  "educational science research"
+  ],
+  [0,
+  "science and research",
+  "science research management"
+  ],
+  [0,
+  "science and research",
+  "research on library science"
+  ],
+  [0,
+  "science and research",
+  "library science research   work"
+  ],
+  [1,
+  "networks and spatial economics",
+  "networks   spatial economics"
+  ],
+  [0,
+  "public health journal",
+  "chinese journal of public health mnagement"
+  ],
+  [0,
+  "electronics and power",
+  "j  low power electronics"
+  ],
+  [1,
+  "electronics and power",
+  "power electronics"
+  ],
+  [1,
+  "journal of northwest minorities university",
+  "journal of northwest minorities university for nationalities natural science "
+  ],
+  [1,
+  "journal of northwest minorities university",
+  "journal of northwest minorities university philosophy and social science "
+  ],
+  [1,
+  "journal of henan education institute",
+  "journal of henan institute of education  philosophy and social science edition "
+  ],
+  [1,
+  "journal of henan education institute",
+  "journal of henan institute of education philosophy and social sciences "
+  ],
+  [1,
+  "journal of henan education institute",
+  "journal of henan institute of education natural science edition "
+  ],
+  [0,
+  "open journal of geology",
+  "journal of engineering geology"
+  ],
+  [0,
+  "open journal of geology",
+  "journal of geology"
+  ],
+  [0,
+  "open journal of geology",
+  "chinese journal of geology"
+  ],
+  [0,
+  "world journal of psychiatry",
+  "journal of clinical psychiatry"
+  ],
+  [1,
+  "the cambridge quarterly",
+  "cambridge quarterly"
+  ],
+  [1,
+  "russian and east european studies",
+  "east european russian   central asian studies"
+  ],
+  [1,
+  "russian and east european studies",
+  "russian  central asian   east european studies"
+  ],
+  [1,
+  "russian and east european studies",
+  "russian central asian   east european studies"
+  ],
+  [1,
+  "russian and east european studies",
+  "russian central asian   east european studies"
+  ],
+  [1,
+  "journal of fujian agriculture and forestry university",
+  "journal of fujian agriculture and forestry university natural science edition "
+  ],
+  [1,
+  "journal of fujian agriculture and forestry university",
+  "journal of fujian agriculture and forestry university philosophy and social sciences "
+  ],
+  [1,
+  "journal of fujian agriculture and forestry university",
+  "journal of fujian agriculture and forestry university  philosophy and science "
+  ],
+  [1,
+  "chinese journal of stomatological research",
+  "chinese journal of stomatological research electronic version "
+  ],
+  [1,
+  "chinese journal of stomatological research",
+  "chinese journal of stomatological research electronic edition "
+  ],
+  [1,
+  "the international journal of aviation psychology",
+  "international journal of aviation psychology"
+  ],
+  [0,
+  "journal of ecological engineering",
+  "journal of heilongjiang vocational institute of ecological engineering"
+  ],
+  [1,
+  "applied statistics",
+  "annals of applied statistics"
+  ],
+  [1,
+  "african development review",
+  "african development review revue africaine de developpement"
+  ],
+  [0,
+  "the new philosophy",
+  "international philosophy today"
+  ],
+  [0,
+  "the new philosophy",
+  "journal of philosophy"
+  ],
+  [0,
+  "the new philosophy",
+  "african philosophy"
+  ],
+  [0,
+  "the new philosophy",
+  "world philosophy"
+  ],
+  [0,
+  "the new philosophy",
+  "modern philosophy"
+  ],
+  [0,
+  "the new philosophy",
+  "the palace of philosophy"
+  ],
+  [0,
+  "international journal of information technology",
+  "international journal of advanced manufacturing technology"
+  ],
+  [0,
+  "international journal of information technology",
+  "international journal of technology policy and law"
+  ],
+  [0,
+  "international journal of information technology",
+  "international journal of computer science   information technology"
+  ],
+  [0,
+  "international journal of information technology",
+  "international journal of computer games technology   networking for computer games"
+  ],
+  [0,
+  "international journal of information technology",
+  "information sciences: an international journal   special issue: information technology"
+  ],
+  [0,
+  "international journal of information technology",
+  "international journal of computer applications in technology"
+  ],
+  [1,
+  "journal of microscopy",
+  "journal of microscopy oxford"
+  ],
+  [1,
+  "canadian journal of mathematics",
+  "canadian journal of mathematics journal canadien de mathematiques"
+  ],
+  [0,
+  "world journal of aids",
+  "journal for china aids std"
+  ],
+  [1,
+  "technological horizons in education",
+  "t h e  journal  technological horizons in education "
+  ],
+  [1,
+  "journal of economic behavior and organization",
+  "journal of economic behavior   organization"
+  ],
+  [1,
+  "the neurologist",
+  "neurologist"
+  ],
+  [1,
+  "evaluation   the health professions",
+  "evaluation   the health professions"
+  ],
+  [0,
+  "medical equipment",
+  "modern medical equipment and application"
+  ],
+  [1,
+  "pediatric obesity",
+  "international journal of pediatric obesity"
+  ],
+  [1,
+  "journal of nanchang hangkong university",
+  "journal of nanchang hangkong university social science "
+  ],
+  [1,
+  "journal of nanchang hangkong university",
+  "journal of nanchang hangkong university natural science "
+  ],
+  [1,
+  "journal of nanchang hangkong university",
+  "journal of nanchang hangkong university social sciences "
+  ],
+  [1,
+  "journal of nanchang hangkong university",
+  "journal of nanchang hangkong university natural sciences "
+  ],
+  [1,
+  "journal of shanghai normal university",
+  "journal of shanghai normal university philosophy   social sciences edition "
+  ],
+  [1,
+  "journal of shanghai normal university",
+  "journal of shanghai normal university natural sciences "
+  ],
+  [0,
+  "sequence",
+  "sequence learning"
+  ],
+  [0,
+  "sequence",
+  "sequence learning"
+  ],
+  [0,
+  "child s health",
+  "paediatrics   child health"
+  ],
+  [1,
+  "the turkish journal of gastroenterology",
+  "turkish journal of gastroenterology"
+  ],
+  [1,
+  "the breast",
+  "breast"
+  ],
+  [1,
+  "mobile networks and applications",
+  "mobile networks and applications   mobile networking through ip"
+  ],
+  [1,
+  "mobile networks and applications",
+  "mobile networks and applications   security in mobile computing environments"
+  ],
+  [1,
+  "mobile networks and applications",
+  "mobile networks   applications"
+  ],
+  [1,
+  "best practice   research clinical rheumatology",
+  "best practice   research in clinical rheumatology"
+  ],
+  [0,
+  "multimedia information   technology",
+  "multimedia technology and management"
+  ],
+  [0,
+  "multimedia information   technology",
+  "multimedia technology and applications"
+  ],
+  [0,
+  "international journal of management it and engineering",
+  "international journal of multimedia data engineering   management"
+  ],
+  [1,
+  "the journal of experimental biology",
+  "journal of experimental biology"
+  ],
+  [1,
+  "scandinavian journal of work environment   health",
+  "scandinavian journal of work environment   health"
+  ],
+  [0,
+  "the first resource",
+  "resource recycling"
+  ],
+  [0,
+  "the first resource",
+  "the x resource"
+  ],
+  [1,
+  "artificial cells blood substitutes and biotechnology",
+  "artificial cells  blood substitutes and biotechnology"
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university natural science edition "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university education science "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university philosophy   social science "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university philosophy and social science "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university  philosophy   social science "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university educational science "
+  ],
+  [1,
+  "journal of inner mongolia normal university",
+  "journal of inner mongolia normal university philosophy and social sciences edition "
+  ],
+  [1,
+  "journal of slavic military studies",
+  "the journal of slavic military studies"
+  ],
+  [1,
+  "innovative food science and emerging technologies",
+  "innovative food science   emerging technologies"
+  ],
+  [0,
+  "public works",
+  "public art"
+  ],
+  [0,
+  "public works",
+  "public historian"
+  ],
+  [0,
+  "public works",
+  "public utilities"
+  ],
+  [0,
+  "public works",
+  "for the public good"
+  ],
+  [0,
+  "public works",
+  "public utilites"
+  ],
+  [0,
+  "public works",
+  "public relations world"
+  ],
+  [0,
+  "public works",
+  "public nelation world"
+  ],
+  [0,
+  "international journal of computing",
+  "international journal of green computing"
+  ],
+  [0,
+  "international journal of computing",
+  "international journal of cloud applications and computing"
+  ],
+  [0,
+  "international journal of computing",
+  "international journal of reconfigurable computing   regular issue"
+  ],
+  [0,
+  "international journal of computing",
+  "international journal of reconfigurable computing   current trends on reconfigurable computing"
+  ],
+  [0,
+  "international journal of computing",
+  "international journal of optical computing"
+  ],
+  [1,
+  "structural equation modeling",
+  "structural equation modeling a multidisciplinary journal"
+  ],
+  [1,
+  "journal of shanxi radio   tv university",
+  "journal of shanxi radio   tv university"
+  ],
+  [1,
+  "the public historian",
+  "public historian"
+  ],
+  [1,
+  "the american journal of managed care",
+  "american journal of managed care"
+  ],
+  [1,
+  "journal of hunan normal university",
+  "journal of hunan normal university medical sciences "
+  ],
+  [1,
+  "journal of hunan normal university",
+  "journal of hunan normal university  nedical sciences "
+  ],
+  [1,
+  "journal of artificial societies and social simulation",
+  "the journal of artificial societies and social simulation"
+  ],
+  [0,
+  "journal of the ministry of agriculture",
+  "journal of agricultural management institute of ministry of agriculture"
+  ],
+  [0,
+  "the journal of risk management",
+  "international journal of risk and contingency management"
+  ],
+  [0,
+  "materials in engineering",
+  "synthesis lectures on materials engineering"
+  ],
+  [0,
+  "materials in engineering",
+  "journal of materials science and engineering"
+  ],
+  [0,
+  "materials in engineering",
+  "raremetal materials and engineering"
+  ],
+  [1,
+  "mutation research mutation research genomics",
+  "mutation research genomics"
+  ],
+  [1,
+  "journal of nuclear energy parts a b reactor science and technology",
+  "journal of nuclear energy  parts a b  reactor science and technology"
+  ],
+  [1,
+  "the modern schoolman",
+  "modern schoolman"
+  ],
+  [0,
+  "the journal of architecture",
+  "journal of guangdong landscape architecture"
+  ],
+  [1,
+  "the journal of architecture",
+  "journal of architecture"
+  ],
+  [1,
+  "journal of the canadian dietetic association",
+  "journal of the canadian dietetic association revue de l association canadienne des dietetistes"
+  ],
+  [0,
+  "concurrent engineering",
+  "manufacturing in the era of concurrent engineering"
+  ],
+  [0,
+  "concurrent engineering",
+  "manufacturing in the era of concurrent engineering"
+  ],
+  [1,
+  "concurrent engineering",
+  "ispe conference on concurrent engineering"
+  ],
+  [1,
+  "the musical quarterly",
+  "musical quarterly"
+  ],
+  [1,
+  "nature climate change",
+  "nature reports climate change"
+  ],
+  [0,
+  "international journal of technology",
+  "international journal of advanced manufacturing technology"
+  ],
+  [0,
+  "international journal of technology",
+  "international journal of technology policy and law"
+  ],
+  [0,
+  "international journal of technology",
+  "international journal of computer science   information technology"
+  ],
+  [0,
+  "international journal of technology",
+  "international journal of computer games technology   networking for computer games"
+  ],
+  [0,
+  "international journal of technology",
+  "information sciences: an international journal   special issue: information technology"
+  ],
+  [0,
+  "international journal of technology",
+  "international journal of computer applications in technology"
+  ],
+  [1,
+  "management and technology of sme",
+  "management   technology of sme"
+  ],
+  [0,
+  "early childhood education journal",
+  "journal of computing in childhood education"
+  ],
+  [1,
+  "journal of tsinghua university",
+  "journal of tsinghua university philosophy and social sciences "
+  ],
+  [1,
+  "journal of tsinghua university",
+  "journal of tsinghua university science and technology "
+  ],
+  [0,
+  "vocational education",
+  "higher vocational education forum"
+  ],
+  [0,
+  "vocational education",
+  "mechanical vocational education"
+  ],
+  [0,
+  "vocational education",
+  "health vocational education"
+  ],
+  [0,
+  "vocational education",
+  "research for vocational technology education"
+  ],
+  [0,
+  "vocational education",
+  "vocational education research"
+  ],
+  [0,
+  "vocational education",
+  "chinese vocational and technical education"
+  ],
+  [0,
+  "vocational education",
+  "guangzhou vocational education forum"
+  ],
+  [0,
+  "vocational education",
+  "contemporary vocational education"
+  ],
+  [0,
+  "the spine journal",
+  "journal of neurosurgery spine"
+  ],
+  [1,
+  "the spine journal",
+  "spine journal"
+  ],
+  [0,
+  "people and place",
+  "computers and people"
+  ],
+  [0,
+  "people and place",
+  "it   people"
+  ],
+  [0,
+  "veterinary world",
+  "veterinary orientation"
+  ],
+  [0,
+  "international journal of artificial intelligence",
+  "international journal of artificial intelligence in education   special issue on best of its 2010"
+  ],
+  [0,
+  "international journal of artificial intelligence",
+  "information processing and management: an international journal   artificial intelligence and information retrieval"
+  ],
+  [0,
+  "international journal of artificial intelligence",
+  "international journal of computer games technology   artificial intelligence for computer games"
+  ],
+  [0,
+  "international journal of artificial intelligence",
+  "international journal of artificial intelligence in education   best of aied 2011"
+  ],
+  [1,
+  "the east and the west",
+  "philosophy east   west"
+  ],
+  [0,
+  "the east and the west",
+  "east west database workshops"
+  ],
+  [0,
+  "the east and the west",
+  "east west database workshop"
+  ],
+  [0,
+  "the east and the west",
+  "east west database workshop"
+  ],
+  [1,
+  "open hematology journal",
+  "the open hematology journal"
+  ],
+  [0,
+  "ancient philosophy",
+  "phronesis a journal for ancient philosophy"
+  ],
+  [0,
+  "journal of english and education",
+  "journal of basic english education"
+  ],
+  [1,
+  "journal of molecular medicine",
+  "journal of molecular medicine jmm"
+  ],
+  [1,
+  "the german quarterly",
+  "german quarterly"
+  ],
+  [0,
+  "education and health",
+  "health education on tuberculosis"
+  ],
+  [0,
+  "education and health",
+  "health vocational education"
+  ],
+  [1,
+  "the journal of shanxi teachers university",
+  "journal of shanxi teachers university natural science edition "
+  ],
+  [1,
+  "the journal of shanxi teachers university",
+  "journal of shanxi teachers university social science edition "
+  ],
+  [1,
+  "economic analysis and policy",
+  "frontiers in economic analysis   policy"
+  ],
+  [1,
+  "journal of sichuan normal university",
+  "journal of sichuan normal university philosophy and social sciences "
+  ],
+  [1,
+  "journal of sichuan normal university",
+  "journal of sichuan normal university natural science "
+  ],
+  [1,
+  "journal of sichuan normal university",
+  "journal of sichuan normal university social sciences edition "
+  ],
+  [1,
+  "journal of online marketing",
+  "international journal of online marketing"
+  ],
+  [1,
+  "nitric oxide",
+  "nitric oxide biology and chemistry"
+  ],
+  [0,
+  "the new physician",
+  "physician and sportsmedicine"
+  ],
+  [1,
+  "the journal of hellenic studies",
+  "journal of hellenic studies"
+  ],
+  [1,
+  "journal of chemical industry and engineering",
+  "journal of chemical industry and engineering china "
+  ],
+  [1,
+  "journal of chemical industry and engineering",
+  "journal of chemical industry   engineering"
+  ],
+  [0,
+  "systems science   control engineering",
+  "international journal of systems science   intelligent control of high performance engineering systems"
+  ],
+  [1,
+  "social network analysis and mining",
+  "proceedings of the 3rd workshop on social network mining and analysis"
+  ],
+  [1,
+  "social network analysis and mining",
+  "advances in social network analysis and mining"
+  ],
+  [1,
+  "social network analysis and mining",
+  "proceedings of the 7th workshop on social network mining and analysis"
+  ],
+  [1,
+  "social network analysis and mining",
+  "snakdd'08 proceedings of the second international conference on advances in social network mining and analysis"
+  ],
+  [1,
+  "electronic colloquium on computational complexity",
+  "electronic colloquium on computational complexity  eccc "
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal of engineering intelligent systems"
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal of supercomputer applications and high performance engineering"
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal of measurement technologies and instrumentation engineering"
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal of chemoinformatics and chemical engineering"
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal on software engineering and knowledge engineering"
+  ],
+  [0,
+  "international journal of engineering",
+  "international journal of multimedia data engineering   management"
+  ],
+  [0,
+  "psychiatry information in brief",
+  "psychiatry research"
+  ],
+  [0,
+  "psychiatry information in brief",
+  "psychiatry"
+  ],
+  [1,
+  "journal of henan institute of engineering",
+  "journal of henan institute of engineering natural science edition "
+  ],
+  [1,
+  "journal of henan institute of engineering",
+  "journal of henan institute of engineering social science edition "
+  ],
+  [0,
+  "safety and health at work",
+  "safety   health"
+  ],
+  [0,
+  "safety and health at work",
+  "safety health   environment"
+  ],
+  [1,
+  "safety and health at work",
+  "safety   health at work"
+  ],
+  [0,
+  "safety and health at work",
+  "safety and health"
+  ],
+  [0,
+  "journal of science and technology of the arts",
+  "journal of hunan university of arts and science science and technology "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of xi'an university of arts and science social sciences edition "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of baoji university of arts and sciences social sciences edition "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of baoji university of arts and sciences social science edition "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of chongqing university of arts and sciences social sciences edition "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of xiamen university arts   social sciences "
+  ],
+  [0,
+  "journal of arts and social sciences",
+  "journal of baoji university of arts and sciences social sciences "
+  ],
+  [0,
+  "recent research in science and technology",
+  "xinjiang farm research of science and technology"
+  ],
+  [0,
+  "international journal of information quality",
+  "international journal of reliable and quality e healthcare"
+  ],
+  [1,
+  "journal of the chemical society faraday transactions",
+  "journal of the chemical society  faraday transactions"
+  ],
+  [1,
+  "journal of the chemical society faraday transactions",
+  "journal of the chemical society  faraday transactions 2"
+  ],
+  [1,
+  "the journal of ayn rand studies",
+  "journal of ayn rand studies"
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of jimei university education science edition "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of inner mongolia normal university education science "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of jiangsu institute of education nature science "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of food science education"
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of jiangsu institute of education social science "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of chifeng university science   education "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of beijing institute of education natural science "
+  ],
+  [0,
+  "journal of higher education and science",
+  "journal of jiangsu institute of education natural science "
+  ],
+  [1,
+  "the astronomy and astrophysics review",
+  "astronomy and astrophysics review"
+  ],
+  [1,
+  "bijdragen tot de taal land en volkenkunde",
+  "bijdragen tot de taal  land  en volkenkunde"
+  ],
+  [0,
+  "psychological thought",
+  "psychological exploration"
+  ],
+  [0,
+  "psychological thought",
+  "psychological research"
+  ],
+  [0,
+  "cognition",
+  "spatial cognition"
+  ],
+  [1,
+  "the journal of portfolio management",
+  "journal of portfolio management"
+  ],
+  [1,
+  "journal of shenyang jianzhu university",
+  "journal of shenyang jianzhu university social science "
+  ],
+  [1,
+  "journal of shenyang jianzhu university",
+  "journal of shenyang jianzhu university natural science "
+  ],
+  [0,
+  "latest thinking",
+  "c thinking"
+  ],
+  [0,
+  "latest thinking",
+  "thinking and wisdom"
+  ],
+  [0,
+  "latest thinking",
+  "thinking"
+  ],
+  [0,
+  "latest thinking",
+  "new thinking"
+  ],
+  [1,
+  "logos",
+  "logos vilnius"
+  ],
+  [0,
+  "plant resources",
+  "chinese wild plant resources"
+  ],
+  [1,
+  "annals of gis geographic information sciences",
+  "annals of gis   geographic information sciences"
+  ],
+  [0,
+  "home health journal",
+  "china journal of health psychology"
+  ],
+  [0,
+  "home health journal",
+  "chinese journal of health statistics"
+  ],
+  [0,
+  "home health journal",
+  "chinese journal of health inspection"
+  ],
+  [0,
+  "home health journal",
+  "american journal of mens health"
+  ],
+  [0,
+  "home health journal",
+  "journal of environment and health"
+  ],
+  [0,
+  "agricultural engineering today",
+  "agricultural engineering"
+  ],
+  [0,
+  "agricultural engineering today",
+  "agricultural engineering technology"
+  ],
+  [1,
+  "journal of xiangtan normal university",
+  "journal of xiangtan normal university  natural science edition "
+  ],
+  [1,
+  "journal of xiangtan normal university",
+  "journal of xiangtan normal university social science edition "
+  ],
+  [1,
+  "journal of xiangtan normal university",
+  "journal of xiangtan normal university natural science edition "
+  ],
+  [0,
+  "human technology",
+  "new technology in the human services"
+  ],
+  [1,
+  "ems world",
+  "ems insider"
+  ],
+  [1,
+  "journal of qiqihar university",
+  "journal of qiqihar university natural science edition "
+  ],
+  [1,
+  "journal of yunnan university of nationalities",
+  "journal of yunnan university of nationalities natural sciences edition "
+  ],
+  [1,
+  "journal of yunnan university of nationalities",
+  "journal of yunnan university for nationalities social sciences "
+  ],
+  [1,
+  "journal of yunnan university of nationalities",
+  "journal of yunnan nationalities university social sciences "
+  ],
+  [1,
+  "journal of yunnan university of nationalities",
+  "journal of yunnan university of nationalities social sciences "
+  ],
+  [1,
+  "journal of yunnan university of nationalities",
+  "journal of yunnan nationalities university natural sciences edition "
+  ],
+  [0,
+  "journal of ancient philosophy",
+  "phronesis a journal for ancient philosophy"
+  ],
+  [1,
+  "journal of physics b",
+  "journal of physics a mathematical and theoretical"
+  ],
+  [0,
+  "journal of physics b",
+  "journal of atmospheric and terrestrial physics"
+  ],
+  [1,
+  "journal of physics b",
+  "journal of physics d applied physics"
+  ],
+  [1,
+  "journal of physics b",
+  "journal of physics a mathematical and general"
+  ],
+  [1,
+  "journal of physics b",
+  "journal of physics g nuclear and particle physics"
+  ],
+  [0,
+  "journal of physics b",
+  "pramana journal of physics"
+  ],
+  [0,
+  "journal of physics b",
+  "journal of polymer science part b polymer physics"
+  ],
+  [1,
+  "journal of endocrinology and metabolism",
+  "journal of clinical endocrinology   metabolism"
+  ],
+  [1,
+  "journal of endocrinology and metabolism",
+  "journal of pediatric endocrinology   metabolism"
+  ],
+  [0,
+  "journal of computing and information technology",
+  "journal of computer science and technology   grid computing"
+  ],
+  [0,
+  "plastics world",
+  "plastics packaging"
+  ],
+  [0,
+  "plastics world",
+  "plastics industry"
+  ],
+  [0,
+  "plastics world",
+  "plastics"
+  ],
+  [0,
+  "plastics world",
+  "plastics manufacture"
+  ],
+  [0,
+  "plastics world",
+  "shanghai plastics"
+  ],
+  [0,
+  "plastics world",
+  "guangdong plastics"
+  ],
+  [1,
+  "plastics world",
+  "world plastics"
+  ],
+  [0,
+  "plastics world",
+  "plastics additives"
+  ],
+  [0,
+  "international journal of library science",
+  "information processing and management: an international journal   expert systems and library information science"
+  ],
+  [1,
+  "the journal of neuroscience",
+  "journal of neuroscience"
+  ],
+  [0,
+  "the practitioner",
+  "the nurse practitioner"
+  ],
+  [1,
+  "the practitioner",
+  "practitioner"
+  ],
+  [1,
+  "resources and industries",
+  "resources   industries"
+  ],
+  [1,
+  "journal of nanjing sport institute",
+  "journal of nanjing sport institute natural science "
+  ],
+  [1,
+  "journal of nanjing sport institute",
+  "journal of nanjing sport institute social science "
+  ],
+  [1,
+  "journal of nanjing sport institute",
+  "journal of nanjing sport institute  social science "
+  ],
+  [1,
+  "experimental biology",
+  "journal of experimental biology"
+  ],
+  [0,
+  "experimental biology",
+  "proceedings of the society for experimental biology and medicine"
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of wuhan institute of educational science"
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of ningbo university educational science edition "
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of hebei normal university educational science edition"
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of tianjin academy of educational science"
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of inner mongolia normal university educational science "
+  ],
+  [0,
+  "journal of science educational science",
+  "journal of ningbo univeristy educational science edition "
+  ],
+  [1,
+  "the institute of electrical and electronics engineers",
+  "the institute of electrical and electronics engineers  inc on conference on software maintenance  1985"
+  ],
+  [1,
+  "the institute of electrical and electronics engineers",
+  "institute of electrical and electronics engineers on fifth international phoenix conference on computers and communications"
+  ],
+  [1,
+  "language and literacy",
+  "written language   literacy"
+  ],
+  [0,
+  "open journal of pathology",
+  "journal of audiology and speech pathology"
+  ],
+  [1,
+  "open journal of pathology",
+  "journal of pathology"
+  ],
+  [0,
+  "open journal of pathology",
+  "indian journal of pathology and microbiology"
+  ],
+  [0,
+  "open journal of pathology",
+  "european journal of forest pathology"
+  ],
+  [0,
+  "open journal of pathology",
+  "american journal of surgical pathology"
+  ],
+  [1,
+  "polymeric materials science and engineering",
+  "polymeric materials science   engineering"
+  ],
+  [1,
+  "open journal of urology",
+  "journal of urology"
+  ],
+  [0,
+  "open journal of urology",
+  "international journal of urology and nephrology"
+  ],
+  [0,
+  "open journal of urology",
+  "journal of minimally invasive urology"
+  ],
+  [1,
+  "chinese journal of vascular surgery",
+  "chinese journal of vascular surgery electronic version "
+  ],
+  [0,
+  "inquiry",
+  "inquiry into economic problems"
+  ],
+  [1,
+  "the australian journal of anthropology",
+  "australian journal of anthropology"
+  ],
+  [1,
+  "the journal of asian studies",
+  "the international journal of asian studies"
+  ],
+  [1,
+  "the journal of asian studies",
+  "journal of asian studies"
+  ],
+  [1,
+  "russian journal of physical chemistry a",
+  "russian journal of physical chemistry"
+  ],
+  [1,
+  "the international journal of biochemistry   cell biology",
+  "international journal of biochemistry   cell biology"
+  ],
+  [1,
+  "journal of landscape architecture",
+  "journal of guangdong landscape architecture"
+  ],
+  [1,
+  "the journal of infectious diseases",
+  "journal of infectious diseases"
+  ],
+  [1,
+  "asian man an international journal",
+  "the international journal of asian studies"
+  ],
+  [1,
+  "the bryologist",
+  "bryologist"
+  ],
+  [0,
+  "geotechnical engineering",
+  "equipment for geotechnical engineering"
+  ],
+  [1,
+  "geotechnical engineering",
+  "geotechnical engineering technique"
+  ],
+  [1,
+  "geotechnical engineering",
+  "geotechnical engineering world"
+  ],
+  [1,
+  "journal of nuclear and particle physics",
+  "journal of physics g nuclear and particle physics"
+  ],
+  [1,
+  "south african journal of chemistry",
+  "south african journal of chemistry suid afrikaanse tydskrif vir chemie"
+  ],
+  [0,
+  "computer engineering and intelligent systems",
+  "integrated computer aided engineering   performance metrics for intelligent systems"
+  ],
+  [1,
+  "journal of qingdao agricultural university",
+  "journal of qingdao agricultural university natural science "
+  ],
+  [1,
+  "journal of qingdao agricultural university",
+  "journal of qingdao agricultural university social science "
+  ],
+  [1,
+  "the scottish historical review",
+  "scottish historical review"
+  ],
+  [1,
+  "the medical bulletin",
+  "bulletin of medical research"
+  ],
+  [1,
+  "journal of guangxi university for nationlities",
+  "journal of guangxi university for nationlities philosophy and social science edition "
+  ],
+  [1,
+  "journal of yangzhou university",
+  "journal of yangzhou university natural science edition "
+  ],
+  [0,
+  "journal of yangzhou university",
+  "journal of taxation college of yangzhou university"
+  ],
+  [1,
+  "journal of yangzhou university",
+  "journal of yangzhou university higher education study edition"
+  ],
+  [1,
+  "journal of yangzhou university",
+  "journal of yangzhou university higher education study edition "
+  ],
+  [1,
+  "the prostate",
+  "prostate"
+  ],
+  [1,
+  "journal of romance studies",
+  "the journal of romance studies"
+  ],
+  [0,
+  "open journal of immunology",
+  "journal of allergy and clinical immunology"
+  ],
+  [1,
+  "hydraulic engineering",
+  "journal of hydraulic engineering asce"
+  ],
+  [1,
+  "logic journal of the igpl bulletin of the igpl",
+  "logic journal of the igpl   bulletin of the igpl"
+  ],
+  [1,
+  "international journal of web information systems",
+  "international journal on semantic web   information systems"
+  ],
+  [0,
+  "the american interest",
+  "american naturalist"
+  ],
+  [0,
+  "the american interest",
+  "american zoologist"
+  ],
+  [0,
+  "the american interest",
+  "american statistician"
+  ],
+  [0,
+  "applied computer science",
+  "world congress in computer science  computer engineering  and applied computing"
+  ],
+  [0,
+  "applied computer science",
+  "applied mathematics and computer science"
+  ],
+  [0,
+  "applied computer science",
+  "theoretical computer science   applied semantics"
+  ],
+  [0,
+  "social science journal of xiangtan university",
+  "journal of xiangtan normal university social science edition "
+  ],
+  [1,
+  "the journal of food science education",
+  "journal of food science education"
+  ],
+  [1,
+  "journal of fuzhou university",
+  "journal of fuzhou university natural science edition "
+  ],
+  [1,
+  "journal of fuzhou university",
+  "journal of fuzhou university philosophy and social sciences "
+  ],
+  [1,
+  "journal of fuzhou university",
+  "journal of fuzhou university philosophy and social science "
+  ],
+  [1,
+  "journal of fuzhou university",
+  "journal of fuzhou university natural sciences edtion "
+  ],
+  [0,
+  "journal of design and science",
+  "journal of integrated design   process science"
+  ],
+  [0,
+  "journal of design and science",
+  "journal of integrated design   process science   manufacturing and design"
+  ],
+  [0,
+  "open journal of obstetrics and gynecology",
+  "chinese journal of obstetrics   gynecology and pediatrics"
+  ],
+  [0,
+  "open journal of obstetrics and gynecology",
+  "journal of psychosomatic obstetrics and gynecology"
+  ],
+  [0,
+  "world health",
+  "e health"
+  ],
+  [0,
+  "world health",
+  "wireless health"
+  ],
+  [0,
+  "world health",
+  "noise and health"
+  ],
+  [0,
+  "world health",
+  "animal health"
+  ],
+  [0,
+  "world health",
+  "safety and health"
+  ],
+  [0,
+  "world health",
+  "wireless health"
+  ],
+  [0,
+  "world health",
+  "health research"
+  ],
+  [0,
+  "world health",
+  "e health"
+  ],
+  [0,
+  "international journal of linguistics",
+  "itl   international journal of applied linguistics"
+  ],
+  [1,
+  "china finance review international",
+  "china accounting and finance review international symposium 2010"
+  ],
+  [1,
+  "china finance review international",
+  "2010 china finance review international conference"
+  ],
+  [1,
+  "china finance review international",
+  "2011 china finance review international conference"
+  ],
+  [1,
+  "journal of rtv university",
+  "journal of jiangxi rtv university"
+  ],
+  [1,
+  "journal of rtv university",
+  "journal of chongqing rtv university"
+  ],
+  [1,
+  "journal of rtv university",
+  "journal of rtv university philosophy   social sciences "
+  ],
+  [1,
+  "journal of xihua teachers college",
+  "journal of xihua teachers college natural science "
+  ],
+  [0,
+  "international journal of serious games",
+  "international journal of computer games technology   networking for computer games"
+  ],
+  [0,
+  "international journal of serious games",
+  "journal of the international computer games association"
+  ],
+  [1,
+  "journal of materials science   engineering",
+  "journal of materials science and engineering"
+  ],
+  [1,
+  "journal of applied biology",
+  "chinese journal of applied   environmental biology"
+  ],
+  [1,
+  "journal of applied biology",
+  "chinese journal of applied and environmental biology"
+  ],
+  [1,
+  "journal of modern medicine and health",
+  "journal of modern medicine   health"
+  ],
+  [0,
+  "gynecology   obstetrics",
+  "obstetrics gynecology and genetics electronic edition "
+  ],
+  [0,
+  "gynecology   obstetrics",
+  "digest of the world core medical journals obstetrics gynecology "
+  ],
+  [0,
+  "gynecology   obstetrics",
+  "progress in obstetrics and gynecology"
+  ],
+  [0,
+  "gynecology   obstetrics",
+  "progress in obstetrics and gynecology"
+  ],
+  [0,
+  "gynecology   obstetrics",
+  "chinese journal of obstetrics   gynecology and pediatrics"
+  ],
+  [1,
+  "gynecology   obstetrics",
+  "obstetrics and gynecology"
+  ],
+  [0,
+  "building to last",
+  "green building"
+  ],
+  [0,
+  "building to last",
+  "building construction"
+  ],
+  [0,
+  "building to last",
+  "building block and block building"
+  ],
+  [0,
+  "building to last",
+  "intelligent building"
+  ],
+  [1,
+  "current opinion in colloid and interface science",
+  "current opinion in colloid   interface science"
+  ],
+  [1,
+  "journal of hohai university",
+  "journal of hohai university philosophy and social sciences "
+  ],
+  [1,
+  "journal of hohai university",
+  "journal of hohai university natural sciences "
+  ],
+  [1,
+  "modern diagnosis and treatment",
+  "modern diagnosis   treatment"
+  ],
+  [1,
+  "american journal of clinical oncology",
+  "american journal of clinical oncology cancer clinical trials"
+  ],
+  [1,
+  "cambridge law journal",
+  "the cambridge law journal"
+  ],
+  [1,
+  "the canadian journal of linguistics la revue canadienne de linguistique",
+  "the canadian journal of linguistics   la revue canadienne de linguistique"
+  ],
+  [0,
+  "journal of natural sciences engineering and technology",
+  "journal of jilin teachers institute of engineering and technology natural sciences edition "
+  ],
+  [1,
+  "cognitive affective   behavioral neuroscience",
+  "cognitive affective   behavioral neuroscience"
+  ],
+  [1,
+  "elementary english",
+  "elementary english teaching journal"
+  ],
+  [1,
+  "journal of otolaryngology head   neck surgery",
+  "international journal of otolaryngology head and neck surgery"
+  ],
+  [1,
+  "energy science and technology",
+  "energy education science and technology"
+  ],
+  [0,
+  "energy science and technology",
+  "journal of nuclear energy  parts a b  reactor science and technology"
+  ],
+  [0,
+  "energy science and technology",
+  "atomic energy science and technology"
+  ],
+  [1,
+  "journal of south central university for nationalities",
+  "journal of south central university for nationalities natural science edition "
+  ],
+  [1,
+  "journal of south central university for nationalities",
+  "journal of south central university for nationalities philosophy and social science "
+  ],
+  [1,
+  "journal of south central university for nationalities",
+  "journal of south central university for nationalities humanities and social sciences "
+  ],
+  [1,
+  "journal of toxicology and environmental health",
+  "journal of toxicology and environmental health part a current issues"
+  ],
+  [1,
+  "polymer materials science and engineering",
+  "polymer materials science   engineering"
+  ],
+  [1,
+  "journal of hubei university for nationalities",
+  "journal of hubei university for nationalities natural science edition "
+  ],
+  [1,
+  "journal of hubei university for nationalities",
+  "journal of hubei university for nationalities philosophy and social sciences "
+  ],
+  [1,
+  "journal of hubei university for nationalities",
+  "journal of hubei university for nationalities medical edition "
+  ],
+  [1,
+  "organic and biomolecular chemistry",
+  "organic   biomolecular chemistry"
+  ],
+  [1,
+  "ids bulletin",
+  "the ids bulletin"
+  ],
+  [1,
+  "journal of laboratory automation",
+  "journal of the association for laboratory automation"
+  ],
+  [1,
+  "journal of jilin normal university",
+  "jilin normal university journal natural science edition "
+  ],
+  [1,
+  "journal of jilin normal university",
+  "jilin normal university journal  natural science edition "
+  ],
+  [1,
+  "journal of jilin normal university",
+  "jilin normal university journal humanities   social science edition "
+  ],
+  [1,
+  "journal of jilin normal university",
+  "jilin normal university journal humanities and social science edition "
+  ],
+  [1,
+  "journal of jilin normal university",
+  "journal of jilin normal university humanities   social science edition "
+  ],
+  [1,
+  "annals of software engineering",
+  "annals of software engineering   special issue on software engineering education"
+  ],
+  [0,
+  "international journal of research",
+  "convergence: the international journal of research into new media technologies"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of robotics research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of information retrieval research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of robotic research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of monitoring and surveillance technologies research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of pharmaceutical research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of information and library research"
+  ],
+  [0,
+  "international journal of research",
+  "international journal of e planning research"
+  ],
+  [0,
+  "studies in literature",
+  "studies on modern chinese literature"
+  ],
+  [0,
+  "studies in literature",
+  "foreign language and literature studies"
+  ],
+  [0,
+  "studies in literature",
+  "biblical literature studies"
+  ],
+  [0,
+  "studies in literature",
+  "studies of ethnic literature"
+  ],
+  [0,
+  "studies in literature",
+  "literature and culture studies"
+  ],
+  [0,
+  "studies in literature",
+  "theoretical studies in literature and art"
+  ],
+  [0,
+  "studies in literature",
+  "literature   art studies"
+  ],
+  [0,
+  "studies in literature",
+  "modern chinese literature studies"
+  ],
+  [0,
+  "studies in literature",
+  "theoretical studies in literature and art"
+  ],
+  [1,
+  "comparative biochemistry and physiology b",
+  "comparative biochemistry and physiology part b: biochemistry and molecular biology"
+  ],
+  [1,
+  "comparative biochemistry and physiology b",
+  "comparative biochemistry and physiology b biochemistry   molecular biology"
+  ],
+  [1,
+  "itl international journal of applied linguistics",
+  "itl   international journal of applied linguistics"
+  ],
+  [1,
+  "journal of plastic film and sheeting",
+  "journal of plastic film   sheeting"
+  ],
+  [1,
+  "academic journal of suzhou university",
+  "academic journal of suzhou university philosophy and social science "
+  ],
+  [1,
+  "annual review of automatic programming",
+  "annual review in automatic programming"
+  ],
+  [0,
+  "journal of software engineering",
+  "journal of systems and software   software engineering"
+  ],
+  [1,
+  "journal of software engineering",
+  "software engineering journal   controlling software projects"
+  ],
+  [1,
+  "journal of software engineering",
+  "software engineering journal   object oriented systems"
+  ],
+  [0,
+  "journal of software engineering",
+  "journal of computer and software engineering"
+  ],
+  [1,
+  "journal of software engineering",
+  "software engineering journal   special section on z"
+  ],
+  [0,
+  "journal of software engineering",
+  "international journal on software engineering and knowledge engineering"
+  ],
+  [1,
+  "journal of shanxi teachers university",
+  "journal of shanxi teachers university natural science edition "
+  ],
+  [1,
+  "journal of shanxi teachers university",
+  "journal of shanxi teachers university social science edition "
+  ],
+  [1,
+  "public law",
+  "public admininstration   law"
+  ],
+  [1,
+  "public law",
+  "public administration   law"
+  ],
+  [1,
+  "the international journal of psychoanalysis",
+  "international journal of psychoanalysis"
+  ],
+  [0,
+  "international journal of computer network and information security",
+  "computer networks: the international journal of computer and telecommunications networking   special issue on computer network security"
+  ],
+  [1,
+  "the journal of clinical pharmacology",
+  "journal of clinical pharmacology"
+  ],
+  [0,
+  "education and society",
+  "journal of the chinese society of education"
+  ],
+  [0,
+  "education and society",
+  "journal of the chinese society of education"
+  ],
+  [1,
+  "studies in literature and language",
+  "foreign language and literature studies"
+  ],
+  [0,
+  "modeling and analysis of information systems",
+  "telecommunications systems   modeling  analysis  design and management"
+  ],
+  [0,
+  "economics and business",
+  "journal of business economics"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of intelligent systems in accounting and finance management"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of internet and enterprise management"
+  ],
+  [0,
+  "the journal of international information management",
+  "supply chain management an international journal"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of multimedia data engineering   management"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of management in education"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of productivity management and assessment technologies"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of knowledge management"
+  ],
+  [0,
+  "the journal of international information management",
+  "international journal of risk and contingency management"
+  ],
+  [0,
+  "traffic management",
+  "road traffic management"
+  ],
+  [0,
+  "traffic management",
+  "air traffic management"
+  ],
+  [0,
+  "prevention and research",
+  "juvenile delinquency prevention research"
+  ],
+  [1,
+  "ecological chemistry and engineering a",
+  "ecological chemistry and engineering chemia i inzynieria ekologiczna"
+  ],
+  [1,
+  "journal of pediatric orthopaedics b",
+  "journal of pediatric orthopaedics part b"
+  ],
+  [1,
+  "journal of shandong univenity",
+  "journal of shandong univenity health scicnes "
+  ],
+  [0,
+  "the accounting review",
+  "the british accounting review"
+  ],
+  [1,
+  "the accounting review",
+  "accounting review"
+  ],
+  [1,
+  "journal of hiv aids prevention in children   youth",
+  "journal of hiv aids prevention in children   youth"
+  ],
+  [1,
+  "advances in biochemical engineering biotechnology",
+  "advances in biochemical engineering   biotechnology"
+  ],
+  [0,
+  "the technology teacher",
+  "proceedings of the conference on technology and teacher education"
+  ],
+  [0,
+  "the technology teacher",
+  "journal of technology and teacher education"
+  ],
+  [0,
+  "tropical parasitology",
+  "journal of tropical diseases and parasitology"
+  ],
+  [0,
+  "medical science and technology",
+  "journal of henan university of science   technology medical science "
+  ],
+  [0,
+  "medical science and technology",
+  "journal of henan university of science and technology medical science "
+  ],
+  [1,
+  "the journal of modern history",
+  "journal of modern history"
+  ],
+  [1,
+  "journal of eastchina normal university",
+  "journal of eastchina normal university natural science "
+  ],
+  [1,
+  "the journal of theological studies",
+  "journal of theological studies"
+  ],
+  [1,
+  "oil and gas geology",
+  "oil   gas geology"
+  ],
+  [0,
+  "astronomy and computing",
+  "proceedings of the 2012 workshop on high performance computing for astronomy date"
+  ],
+  [1,
+  "journal of literary and cultural disability studies",
+  "journal of literary   cultural disability studies"
+  ],
+  [1,
+  "the journal of economic history",
+  "journal of economic history"
+  ],
+  [0,
+  "the journal of economic history",
+  "the journal of chinese social and economic history"
+  ],
+  [0,
+  "journal of new technology and materials",
+  "journal of electronic materials   alternative substrate technology"
+  ],
+  [1,
+  "journal of the university of shanghai for science and technology",
+  "journal of university of shanghai for science and technology social sciences edition "
+  ],
+  [1,
+  "journal of the university of shanghai for science and technology",
+  "journal of university of shanghai for science and technology social science "
+  ],
+  [1,
+  "journal of the university of shanghai for science and technology",
+  "journal of university of shanghai for science and technology"
+  ],
+  [1,
+  "journal of the university of shanghai for science and technology",
+  "journal of university of shanghai for science and technology"
+  ],
+  [0,
+  "journal of north university of china",
+  "journal of north china electric power university social sciences "
+  ],
+  [1,
+  "journal of north university of china",
+  "journal of north university of china social science edition "
+  ],
+  [1,
+  "journal of north university of china",
+  "journal of north university of china social sciences"
+  ],
+  [0,
+  "journal of north university of china",
+  "journal of north china university of technology"
+  ],
+  [0,
+  "journal of north university of china",
+  "journal of north china university of technology beijing china"
+  ],
+  [1,
+  "journal of north university of china",
+  "journal of north university of china natural science edition "
+  ],
+  [0,
+  "electronic engineering",
+  "ship electronic engineering"
+  ],
+  [0,
+  "electronic engineering",
+  "electronic engineering   product world"
+  ],
+  [1,
+  "journal of hefei university of technolog",
+  "journal of hefei university of technolog social sciences "
+  ],
+  [0,
+  "open medicine",
+  "medicine world"
+  ],
+  [0,
+  "open medicine",
+  "medicine industry information"
+  ],
+  [0,
+  "open medicine",
+  "china medicine"
+  ],
+  [0,
+  "open medicine",
+  "capital medicine"
+  ],
+  [0,
+  "open medicine",
+  "new chinese medicine"
+  ],
+  [0,
+  "open medicine",
+  "medicine and society"
+  ],
+  [0,
+  "open medicine",
+  "world chinese medicine"
+  ],
+  [0,
+  "open medicine",
+  "laboratory medicine"
+  ],
+  [0,
+  "open medicine",
+  "journal of new medicine"
+  ],
+  [0,
+  "open medicine",
+  "emergency medicine"
+  ],
+  [0,
+  "the journal of educational thought",
+  "journal of shanxi educational college"
+  ],
+  [0,
+  "the journal of educational thought",
+  "journal of xianmen educational college"
+  ],
+  [0,
+  "the journal of educational thought",
+  "journal of xiamen educational college"
+  ],
+  [0,
+  "the journal of educational thought",
+  "journal of educational studies"
+  ],
+  [0,
+  "the journal of educational thought",
+  "journal of educational development"
+  ],
+  [0,
+  "the journal of educational thought",
+  "magnetic resonance: an educational journal"
+  ],
+  [0,
+  "the journal of educational thought",
+  "shanghai journal of educational evaluation"
+  ],
+  [0,
+  "journal of clinical trials",
+  "american journal of clinical oncology cancer clinical trials"
+  ],
+  [1,
+  "ludong university journal",
+  "ludong university journal natural science edition "
+  ],
+  [1,
+  "ludong university journal",
+  "ludong  university journal natural science edition "
+  ],
+  [1,
+  "ludong university journal",
+  "ludong university journal philosophy and social sciences edition"
+  ],
+  [1,
+  "biosensors and bioelectronics",
+  "biosensors   bioelectronics"
+  ],
+  [0,
+  "agricultural research",
+  "yunnan agricultural education research"
+  ],
+  [0,
+  "agricultural research",
+  "agricultural research and application"
+  ],
+  [0,
+  "agricultural research",
+  "australian journal of agricultural research"
+  ],
+  [0,
+  "agricultural research",
+  "agricultural education research"
+  ],
+  [0,
+  "journal materials",
+  "journal of materials protection"
+  ],
+  [0,
+  "journal materials",
+  "journal of materials science and engineering"
+  ],
+  [0,
+  "journal materials",
+  "journal of functional materials"
+  ],
+  [1,
+  "structural engineering earthquake engineering",
+  "structural engineering   earthquake engineering"
+  ],
+  [0,
+  "open journal of physical chemistry",
+  "russian journal of physical chemistry"
+  ],
+  [1,
+  "journal of soochow university",
+  "journal of soochow university natural science edition "
+  ],
+  [1,
+  "journal of soochow university",
+  "journal of soochow university engineering science edition "
+  ],
+  [1,
+  "journal of soochow university",
+  "journal of soochow university medical science edition "
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing technology and business university  natural science edition "
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing technology and business university social science edition "
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing university of technology natural science "
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing technology and business university social science edition"
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing university of technology natural science"
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing technology and business university natural science edition "
+  ],
+  [0,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing university of technology social science "
+  ],
+  [1,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing university of science and technology natural sciences edition "
+  ],
+  [1,
+  "journal of chongqing university of science and technology",
+  "journal of chongqing university of science and technology social sciences edition "
+  ],
+  [0,
+  "sports medicine open",
+  "chinese journal of sports medicine"
+  ],
+  [0,
+  "sports medicine open",
+  "chinese journal of sports medicine"
+  ],
+  [1,
+  "the journal of educational development",
+  "journal of educational development"
+  ],
+  [1,
+  "the slavonic and east european review",
+  "slavonic and east european review"
+  ],
+  [1,
+  "power and energy systems",
+  "iasted european conference on power and energy systems"
+  ],
+  [1,
+  "journal of logistics university of capf",
+  "journal of logistics university of capf medical sciences "
+  ],
+  [0,
+  "chinese journal of transplantation",
+  "chinese journal of nephrology  dialysis  transplantation"
+  ],
+  [1,
+  "chinese journal of transplantation",
+  "chinese journal of transplantation electronic edition "
+  ],
+  [1,
+  "chinese journal of transplantation",
+  "chinese journal of transplantation electronic version "
+  ],
+  [1,
+  "chinese journal of operative procedures of general surgery",
+  "chinese journal of operative procedures of general surgery electronic version "
+  ],
+  [1,
+  "chinese journal of operative procedures of general surgery",
+  "chinese journal of operative procedures of general surgery electronic edition "
+  ],
+  [0,
+  "journal of open research software",
+  "journal of software maintenance: research and practice"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science and technology   xml"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science and technology"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science and technology   bioinformatics"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science and technology"
+  ],
+  [0,
+  "the journal of american science",
+  "journal of the american society for information science and technology"
+  ],
+  [0,
+  "t   t international",
+  "international conference in it   application"
+  ],
+  [0,
+  "t   t international",
+  "international database conference  workshop "
+  ],
+  [0,
+  "t   t international",
+  "international workshop on logic   synthesis"
+  ],
+  [0,
+  "spring",
+  "vtc spring"
+  ],
+  [1,
+  "journal of psychosomatic obstetrics   gynecology",
+  "journal of psychosomatic obstetrics and gynecology"
+  ],
+  [1,
+  "canadian psychology",
+  "canadian psychology psychologie canadienne"
+  ],
+  [1,
+  "journal of pla university of science and technology",
+  "journal of pla university of science and technology natural science "
+  ],
+  [1,
+  "journal of pla university of science and technology",
+  "journal of pla university of science and technology natural science edition "
+  ],
+  [0,
+  "nursing in general practice",
+  "chinese general practice nursing"
+  ],
+  [0,
+  "world cultures",
+  "the world religious cultures"
+  ],
+  [0,
+  "world cultures",
+  "the religions cultures in the world"
+  ],
+  [0,
+  "world cultures",
+  "the religious cultures in the world"
+  ],
+  [0,
+  "medical record",
+  "chinese medical record"
+  ],
+  [1,
+  "journal of xinjiang normal university",
+  "journal of xinjiang normal university natural sciences edition "
+  ],
+  [1,
+  "journal of xinjiang normal university",
+  "journal of xinjiang normal university  social science "
+  ],
+  [1,
+  "journal of xinjiang normal university",
+  "journal of xinjiang normal university edition of philosophy and social sciences "
+  ],
+  [0,
+  "veterinary sciences",
+  "gansu animal and veterinary sciences"
+  ],
+  [0,
+  "veterinary sciences",
+  "sichuan animal and veterinary sciences"
+  ],
+  [1,
+  "journal of hangzhou normal university",
+  "journal of hangzhou normal university humanities and social sciences "
+  ],
+  [1,
+  "journal of hangzhou normal university",
+  "journal of hangzhou normal university social sciences edition "
+  ],
+  [1,
+  "journal of hangzhou normal university",
+  "journal of hangzhou normal university medical edition "
+  ],
+  [1,
+  "journal of hangzhou normal university",
+  "journal of hangzhou normal university natural sciences edition "
+  ],
+  [1,
+  "journal of hangzhou normal university",
+  "journal of hangzhou normal university natural science edition "
+  ],
+  [0,
+  "innovations in systems and software engineering",
+  "radical innovations of software and systems engineering in the future"
+  ],
+  [0,
+  "the new doctor",
+  "plant doctor"
+  ],
+  [0,
+  "the new doctor",
+  "liver doctor"
+  ],
+  [1,
+  "sulphuric acid and industry",
+  "sulphuric acid industry"
+  ],
+  [1,
+  "the british journal for the philosophy of science",
+  "british journal for the philosophy of science"
+  ],
+  [0,
+  "practice nursing",
+  "chinese general practice nursing"
+  ],
+  [1,
+  "journal of jiangsu normal university",
+  "journal of jiangsu normal university natural science edition "
+  ],
+  [1,
+  "journal of jiangsu normal university",
+  "journal of jiangsu normal university philosophy and social sciences edition "
+  ],
+  [1,
+  "journal of jiangsu normal university",
+  "journal of jiangsu normal university educational sciences edition "
+  ],
+  [0,
+  "research in review",
+  "the new review of information behaviour research"
+  ],
+  [0,
+  "research in review",
+  "review of economic research"
+  ],
+  [0,
+  "research in review",
+  "crime and justice a review of research"
+  ],
+  [0,
+  "journal of higher criticism",
+  "the yale journal of criticism"
+  ],
+  [0,
+  "journal of higher criticism",
+  "journal of aesthetics and art criticism"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of measurement technologies and instrumentation engineering"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "convergence: the international journal of research into new media technologies"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of interactive communication systems and technologies"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of intelligent systems   intelligent technologies"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of monitoring and surveillance technologies research"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of wireless networks and broadband technologies"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of productivity management and assessment technologies"
+  ],
+  [0,
+  "international journal of open information technologies",
+  "international journal of systems biology and biomedical technologies"
+  ],
+  [1,
+  "the reading teacher",
+  "reading teacher"
+  ],
+  [1,
+  "applied chemistry",
+  "journal of applied chemistry"
+  ],
+  [1,
+  "journal of computer networks and communications",
+  "acis international journal of computer   information science   computer communications and networks"
+  ],
+  [1,
+  "us neurology",
+  "archives of neurology"
+  ],
+  [0,
+  "the business review",
+  "21s+ century business review"
+  ],
+  [0,
+  "the business review",
+  "business china business review "
+  ],
+  [0,
+  "the business review",
+  "review on western business"
+  ],
+  [1,
+  "the business review",
+  "business review "
+  ],
+  [0,
+  "the business review",
+  "nankai business review"
+  ],
+  [0,
+  "the business review",
+  "21st century business review"
+  ],
+  [0,
+  "the business review",
+  "nanjing business review"
+  ],
+  [0,
+  "e journal of cultural studies",
+  "continuum journal of media   cultural studies"
+  ],
+  [0,
+  "e journal of cultural studies",
+  "differences a journal of feminist cultural studies"
+  ],
+  [0,
+  "e journal of cultural studies",
+  "journal of literary   cultural disability studies"
+  ],
+  [1,
+  "pacing and clinical electrophysiology",
+  "pace pacing and clinical electrophysiology"
+  ],
+  [1,
+  "the art of music journal of shanghai conservatory of music",
+  "art of music journal of the shanghai conservatory of music"
+  ],
+  [1,
+  "the art of music journal of shanghai conservatory of music",
+  "art of music journal of the shanghai conservatory of music "
+  ],
+  [0,
+  "land",
+  "land greening"
+  ],
+  [0,
+  "land",
+  "china land"
+  ],
+  [0,
+  "land",
+  "land and resources information"
+  ],
+  [1,
+  "the archaeological journal",
+  "archaeologies journal of the world archaeological congress"
+  ],
+  [0,
+  "world journal of critical care medicine",
+  "chinese journal of critical care medicine electronic edition "
+  ],
+  [0,
+  "world journal of critical care medicine",
+  "chinese journal of integrated traditional and western medicine in intensive and critical care"
+  ],
+  [0,
+  "world journal of critical care medicine",
+  "chinese journal of integrated traditional and western medicine in intentire critical care"
+  ],
+  [1,
+  "journal of trading",
+  "the journal of trading"
+  ],
+  [0,
+  "childhood and education journal",
+  "journal of computing in childhood education"
+  ],
+  [0,
+  "notes and records",
+  "notes and records of the royal society"
+  ],
+  [0,
+  "the naturalist",
+  "american naturalist"
+  ],
+  [0,
+  "the economic journal",
+  "economic research journal"
+  ],
+  [0,
+  "the economic journal",
+  "journal of economic history"
+  ],
+  [1,
+  "the economic journal",
+  "economic journal"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "proceedings of the seventh indian conference on computer vision  graphics and image processing"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "computer vision  graphics  and image processing"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "graphical models  graphical models and image processing  computer vision  graphics  and image processing"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "computer vision  graphics  and image processing"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "proceedings of the eighth indian conference on computer vision  graphics and image processing"
+  ],
+  [0,
+  "computer graphics and image processing",
+  "seventh indian conference on computer vision  graphics and image processing"
+  ],
+  [0,
+  "information systems management",
+  "proceedings of the 2012 workshop on management of big data systems"
+  ],
+  [0,
+  "information systems management",
+  "conference on information systems and management of data"
+  ],
+  [0,
+  "information systems management",
+  "information knowledge systems management"
+  ],
+  [0,
+  "information systems management",
+  "information  knowledge  systems management"
+  ],
+  [0,
+  "information systems management",
+  "j  of management information systems"
+  ],
+  [0,
+  "information systems management",
+  "journal of systems   management"
+  ],
+  [0,
+  "rural areas and development",
+  "urban and rural development"
+  ],
+  [1,
+  "the wordsworth circle",
+  "wordsworth circle"
+  ],
+  [0,
+  "the journal of international studies",
+  "journal of xi'an international studies university"
+  ],
+  [0,
+  "the journal of international studies",
+  "journal of international security studies"
+  ],
+  [0,
+  "the journal of international studies",
+  "international journal of human computer studies   international journal of man machine studies"
+  ],
+  [0,
+  "the journal of international studies",
+  "international journal of human computer studies"
+  ],
+  [0,
+  "the journal of international studies",
+  "international journal of man machine studies"
+  ],
+  [0,
+  "the journal of international studies",
+  "the international journal of asian studies"
+  ],
+  [0,
+  "the journal of international studies",
+  "international journal of man machine studies   what programmers know"
+  ],
+  [0,
+  "the journal of international studies",
+  "journal of beijing international studies university"
+  ],
+  [0,
+  "the journal of international studies",
+  "international journal of human computer studies"
+  ],
+  [1,
+  "chinese journal of laparoscopic surgery",
+  "chinese journal of laparoscopic surgery electronic version "
+  ],
+  [1,
+  "chinese journal of laparoscopic surgery",
+  "chinese journal of laparoscopic surgery electronic edition "
+  ],
+  [1,
+  "journal of beijing normal university",
+  "journal of beijing normal university social sciences "
+  ],
+  [1,
+  "journal of beijing normal university",
+  "journal of beijing normal university natural science "
+  ],
+  [1,
+  "journal of beijing normal university",
+  "journal of beijing normal university social science edition "
+  ],
+  [1,
+  "world of obstetrics and gynecology",
+  "journal of psychosomatic obstetrics and gynecology"
+  ],
+  [1,
+  "world of obstetrics and gynecology",
+  "progress in obstetrics and gynecology"
+  ],
+  [1,
+  "world of obstetrics and gynecology",
+  "progress in obstetrics and gynecology"
+  ],
+  [1,
+  "world of obstetrics and gynecology",
+  "obstetrics and gynecology"
+  ],
+  [0,
+  "fluids",
+  "computers and fluids"
+  ],
+  [0,
+  "adult learning",
+  "innovative adult learning with innovative technologies"
+  ],
+  [0,
+  "adult learning",
+  "innovative adult learning with innovative technologies"
+  ],
+  [0,
+  "journal of agricultural research",
+  "australian journal of agricultural research"
+  ],
+  [0,
+  "rural china",
+  "china rural finance"
+  ],
+  [0,
+  "rural china",
+  "china rural credit cooperative"
+  ],
+  [0,
+  "rural china",
+  "china rural health"
+  ],
+  [0,
+  "rural china",
+  "china rural survey"
+  ],
+  [0,
+  "rural china",
+  "china rural economy"
+  ],
+  [0,
+  "rural china",
+  "rural credit cooperative of china"
+  ],
+  [0,
+  "rural china",
+  "china rural credit cooperative of china"
+  ],
+  [0,
+  "the international economy",
+  "studies in international technology and economy"
+  ],
+  [1,
+  "chinese journal of endourology",
+  "chinese journal of endourology  electronic version "
+  ],
+  [1,
+  "chinese journal of endourology",
+  "chinese journal of endourology electronic edition "
+  ],
+  [0,
+  "research in higher education journal",
+  "journal of shaoxing university education   teaching research "
+  ],
+  [0,
+  "research in higher education journal",
+  "a journal of research in education"
+  ],
+  [0,
+  "early years educator",
+  "diabetes educator"
+  ],
+  [0,
+  "philosophy and history",
+  "history of chinese philosophy"
+  ],
+  [0,
+  "research journal of science and technology",
+  "journal of the american society for information science and technology   part i: information seeking research"
+  ],
+  [0,
+  "research journal of science and technology",
+  "journal of the american society for information science and technology   research articles"
+  ],
+  [1,
+  "the singapore economic review",
+  "singapore economic review"
+  ],
+  [1,
+  "the academy of management",
+  "academy of management annals"
+  ],
+  [0,
+  "journal of law   politics",
+  "journal  of beijing college of politics and law"
+  ],
+  [0,
+  "journal of law   politics",
+  "law science  journal of northwest university of politics and law "
+  ],
+  [0,
+  "journal of law   politics",
+  "journal of beijing college of politics and law"
+  ],
+  [0,
+  "journal of law   politics",
+  "journal of the east china university of politics and law"
+  ],
+  [0,
+  "journal of law   politics",
+  "beijing management college of politics and law journal"
+  ],
+  [0,
+  "journal of law   politics",
+  "journal of henan administrative institute of politics and law"
+  ],
+  [0,
+  "journal of law   politics",
+  "journal of the east china university of politics   law"
+  ],
+  [0,
+  "journal of law   politics",
+  "journal of guangxi administrativecadre institute of politics and law"
+  ],
+  [0,
+  "world cement",
+  "china cement"
+  ],
+  [0,
+  "world cement",
+  "cement"
+  ],
+  [0,
+  "world cement",
+  "bulk cement"
+  ],
+  [0,
+  "world cement",
+  "sichuan cement"
+  ],
+  [0,
+  "e journal of new world sciences academy",
+  "journal of graduate school of chinese academy of social sciences"
+  ],
+  [1,
+  "journal of southwest university",
+  "journal of southwest university natural science edition "
+  ],
+  [1,
+  "journal of southwest university",
+  "journal of southwest jiaotong university social sciences "
+  ],
+  [1,
+  "journal of southwest university",
+  "journal of southwest university social sciences edition "
+  ],
+  [1,
+  "journal of southwest university",
+  "journal of southwest university of political science   law"
+  ],
+  [1,
+  "journal of minzu university of china",
+  "journal of minzu university of china natural sciences edition "
+  ],
+  [1,
+  "journal of minzu university of china",
+  "journal of minzu university of china philosophy and social sciences edition "
+  ],
+  [0,
+  "nature today",
+  "nature magazine"
+  ],
+  [1,
+  "the journal of comparative germanic linguistics",
+  "journal of comparative germanic linguistics"
+  ],
+  [1,
+  "the scandinavian journal of economics",
+  "scandinavian journal of economics"
+  ],
+  [0,
+  "problems of legality",
+  "legality vision"
+  ],
+  [0,
+  "problems of legality",
+  "government legality"
+  ],
+  [1,
+  "the journal of interactive learning research",
+  "journal of interactive learning research"
+  ],
+  [1,
+  "the american statistician",
+  "american statistician"
+  ],
+  [0,
+  "journal of clinical medicine",
+  "journal of laboratory medicine and clinical"
+  ],
+  [0,
+  "journal of clinical medicine",
+  "clinical medicine and subhealth journal"
+  ],
+  [0,
+  "journal of clinical medicine",
+  "journal of infernational pathology and clinical medicine"
+  ],
+  [0,
+  "international journal of science and engineering",
+  "international journal of systems science   intelligent control of high performance engineering systems"
+  ],
+  [0,
+  "international journal of science and engineering",
+  "international journal of computer mathematics   applications of computational mathematics in science and engineering"
+  ],
+  [0,
+  "international journal of science and engineering",
+  "international journal of computer mathematics   distributed algorithms in science and engineering"
+  ],
+  [0,
+  "international journal of science and engineering",
+  "international journal of computer mathematics   innovative algorithms in science and engineering"
+  ],
+  [0,
+  "men in nursing",
+  "chinese general nursing"
+  ],
+  [0,
+  "men in nursing",
+  "shanghai nursing"
+  ],
+  [0,
+  "data in brief",
+  "data"
+  ],
+  [0,
+  "data in brief",
+  "data structures"
+  ],
+  [0,
+  "data in brief",
+  "data warehousing"
+  ],
+  [0,
+  "data in brief",
+  "international workshop on open data"
+  ],
+  [0,
+  "data in brief",
+  "data engineering"
+  ],
+  [0,
+  "data in brief",
+  "international data information"
+  ],
+  [0,
+  "data in brief",
+  "data magazine"
+  ],
+  [0,
+  "data in brief",
+  "proceedings of the first international workshop on open data"
+  ],
+  [0,
+  "data in brief",
+  "data communications"
+  ],
+  [0,
+  "data in brief",
+  "data base"
+  ],
+  [1,
+  "journal of infection in developing countries",
+  "the journal of infection in developing countries"
+  ],
+  [0,
+  "diagnostic immunology",
+  "clinical and diagnostic laboratory immunology"
+  ],
+  [0,
+  "open linguistics",
+  "nankai linguistics"
+  ],
+  [0,
+  "open linguistics",
+  "chinese linguistics"
+  ],
+  [1,
+  "journal of the northwest normal university",
+  "journal of northwest normal university normal university "
+  ],
+  [1,
+  "journal of the northwest normal university",
+  "journal of northwest normal university social sciences "
+  ],
+  [1,
+  "journal of the northwest normal university",
+  "journal of the northwest normal university social sciences "
+  ],
+  [1,
+  "journal of the northwest normal university",
+  "journal of northwest normal university natural science "
+  ],
+  [1,
+  "journal of the northwest normal university",
+  "journal of northwest normal university natural science edition "
+  ],
+  [1,
+  "the american journal of surgical pathology",
+  "american journal of surgical pathology"
+  ],
+  [0,
+  "problems of quality",
+  "shanghai quality"
+  ],
+  [0,
+  "problems of quality",
+  "china quality"
+  ],
+  [0,
+  "problems of quality",
+  "the merchandise and quality"
+  ],
+  [0,
+  "problems of quality",
+  "fujian quality information"
+  ],
+  [0,
+  "problems of quality",
+  "quality and reliability"
+  ],
+  [0,
+  "problems of quality",
+  "quality exploration"
+  ],
+  [0,
+  "problems of quality",
+  "quality and standardization"
+  ],
+  [0,
+  "world water",
+  "shanghai water"
+  ],
+  [0,
+  "world water",
+  "water technology"
+  ],
+  [0,
+  "results in physics",
+  "guangxi physics"
+  ],
+  [0,
+  "results in physics",
+  "nuclear physics a"
+  ],
+  [0,
+  "results in physics",
+  "physics of guangxi"
+  ],
+  [0,
+  "results in physics",
+  "nuclear physics b"
+  ],
+  [0,
+  "results in physics",
+  "physics and engineering"
+  ],
+  [0,
+  "today s nursing home",
+  "chinese general nursing"
+  ],
+  [0,
+  "today s nursing home",
+  "shanghai nursing"
+  ],
+  [1,
+  "journal of chongqing normal university",
+  "journal of chongqing normal university natural science edition "
+  ],
+  [1,
+  "journal of chongqing normal university",
+  "journal of chongqing normal university edition of social sciences"
+  ],
+  [1,
+  "journal of chongqing normal university",
+  "journal of chongqing normal university natural science "
+  ],
+  [0,
+  "china population today",
+  "population science of china"
+  ],
+  [1,
+  "canadian journal of political science",
+  "canadian journal of political science revue canadienne de science politique"
+  ],
+  [0,
+  "journal of the second northwest university for nationalities",
+  "journal of northwest minorities university for nationalities natural science "
+  ],
+  [1,
+  "journal of the second northwest university for nationalities",
+  "journal of the second northwest university for nationalities philosophy and social science "
+  ],
+  [0,
+  "journal of the second northwest university for nationalities",
+  "journal of northwest university for nationalities natural science "
+  ],
+  [0,
+  "journal of the second northwest university for nationalities",
+  "journal of northwest university for nationalities philosophy and social science "
+  ],
+  [0,
+  "journal of the second northwest university for nationalities",
+  "journal of northwest university for nationalities philosophy and social science "
+  ],
+  [1,
+  "journal of the second northwest university for nationalities",
+  "journal of the second northwest university for nationalities philosophy and social science "
+  ],
+  [1,
+  "medicine and law",
+  "the journal of law and medicine"
+  ],
+  [1,
+  "medicine and law",
+  "the journal of law   medicine"
+  ],
+  [1,
+  "environmental and resource economics",
+  "environmental   resource economics"
+  ],
+  [0,
+  "pointer",
+  "advertising pointer"
+  ],
+  [1,
+  "the chinese journal of medical aesthetics cosmetology",
+  "chinese journal of medical aesthetics and cosmetology"
+  ],
+  [1,
+  "chinese journal of injury repair and wound healing",
+  "chinese journal of injury repair and wound healing electronic edition "
+  ],
+  [1,
+  "chinese journal of injury repair and wound healing",
+  "chinese journal of injury repair and wound healing electronic version "
+  ],
+  [0,
+  "agricultural sciences",
+  "beijing agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "tibetan journal of agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "tibet journal of agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "jiangsu agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "journal of jilin agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "shaanxi journal of agricultural sciences"
+  ],
+  [0,
+  "agricultural sciences",
+  "journal of zhejiang agricultural sciences"
+  ],
+  [1,
+  "discrete and computational geometry",
+  "discrete  computational geometry"
+  ],
+  [0,
+  "discrete and computational geometry",
+  "japanese conference on discrete and computational geometry"
+  ],
+  [1,
+  "discrete and computational geometry",
+  "discrete   computational geometry   23rd annual symposium on computational geometry"
+  ],
+  [1,
+  "discrete and computational geometry",
+  "discrete   computational geometry   acm symposium on computational geometry  waterloo"
+  ],
+  [1,
+  "discrete and computational geometry",
+  "discrete   computational geometry"
+  ],
+  [1,
+  "discrete and computational geometry",
+  "jcdcg'04 proceedings of the 2004 japanese conference on discrete and computational geometry"
+  ],
+  [0,
+  "agricultural science",
+  "bulletin of agricultural science and technology"
+  ],
+  [0,
+  "agricultural science",
+  "management of agricultural science and technology"
+  ],
+  [0,
+  "agricultural science",
+  "wenzhou agricultural science and technology"
+  ],
+  [0,
+  "agricultural science",
+  "sanming agricultural science and technology"
+  ],
+  [0,
+  "agricultural science",
+  "shanghai agricultural science and technology"
+  ],
+  [0,
+  "agricultural science",
+  "liaoning agricultural science"
+  ],
+  [0,
+  "agricultural science",
+  "journal of agricultural science"
+  ],
+  [0,
+  "agricultural science",
+  "guangdong agricultural science"
+  ],
+  [0,
+  "agricultural science",
+  "yunnan agricultural science and technology"
+  ],
+  [1,
+  "journal of xianning medical college",
+  "journal of xianning college medical sciences "
+  ],
+  [0,
+  "automotive engineering international",
+  "proceedings of the 2006 international workshop on software engineering for automotive systems"
+  ],
+  [0,
+  "automotive engineering international",
+  "seas '05 proceedings of the second international workshop on software engineering for automotive systems"
+  ],
+  [0,
+  "automotive engineering international",
+  "aure '06 proceedings of the international automotive requirements engineering workshop"
+  ],
+  [0,
+  "journal of medical technology",
+  "journal of henan university of science   technology medical science "
+  ],
+  [0,
+  "journal of medical technology",
+  "journal of henan university of science and technology medical science "
+  ],
+  [1,
+  "in vitro cellular   developmental biology animal",
+  "in vitro cellular   developmental biology animal"
+  ],
+  [0,
+  "integration",
+  "intelligent information integration"
+  ],
+  [0,
+  "integration",
+  "intelligent information integration"
+  ],
+  [0,
+  "integration",
+  "workshop on information integration on the web"
+  ],
+  [0,
+  "integration",
+  "workshop on information integration on the web"
+  ],
+  [0,
+  "integration",
+  "very large scale integration"
+  ],
+  [0,
+  "international journal of sensor networks",
+  "international journal of distributed sensor networks   advances on heterogeneous wireless sensor networks"
+  ],
+  [0,
+  "international journal of sensor networks",
+  "international journal of distributed sensor networks   sensor networks  ubiquitous and trustworthy computing"
+  ],
+  [0,
+  "the journal of psychology",
+  "the journal of abnormal psychology"
+  ],
+  [0,
+  "the journal of psychology",
+  "international journal of aviation psychology"
+  ],
+  [0,
+  "the journal of psychology",
+  "china journal of health psychology"
+  ],
+  [0,
+  "the journal of psychology",
+  "british journal of developmental psychology"
+  ],
+  [0,
+  "the journal of psychology",
+  "heath psychology journal"
+  ],
+  [1,
+  "the journal of psychology",
+  "journal of psychology"
+  ],
+  [0,
+  "journal of education science",
+  "journal of jimei university education science edition "
+  ],
+  [0,
+  "journal of education science",
+  "journal of inner mongolia normal university education science "
+  ],
+  [0,
+  "journal of education science",
+  "journal of jiangsu institute of education nature science "
+  ],
+  [0,
+  "journal of education science",
+  "journal of food science education"
+  ],
+  [0,
+  "journal of education science",
+  "journal of jiangsu institute of education social science "
+  ],
+  [0,
+  "journal of education science",
+  "journal of chifeng university science   education "
+  ],
+  [0,
+  "journal of education science",
+  "journal of beijing institute of education natural science "
+  ],
+  [0,
+  "journal of education science",
+  "journal of jiangsu institute of education natural science "
+  ],
+  [0,
+  "the journal of pathology",
+  "journal of audiology and speech pathology"
+  ],
+  [1,
+  "the journal of pathology",
+  "journal of pathology"
+  ],
+  [0,
+  "the journal of pathology",
+  "indian journal of pathology and microbiology"
+  ],
+  [0,
+  "the journal of pathology",
+  "european journal of forest pathology"
+  ],
+  [0,
+  "the journal of pathology",
+  "american journal of surgical pathology"
+  ],
+  [0,
+  "group analysis",
+  "network analysis"
+  ],
+  [0,
+  "group analysis",
+  "network analysis"
+  ],
+  [0,
+  "group analysis",
+  "proceedings of the analysis conference on analysis conference"
+  ],
+  [0,
+  "group analysis",
+  "defense analysis"
+  ],
+  [0,
+  "group analysis",
+  "non linear analysis"
+  ],
+  [0,
+  "group analysis",
+  "philosophical analysis"
+  ],
+  [1,
+  "journal of huazhong normal university",
+  "journal of huazhong normal university humanities and social sciences "
+  ],
+  [1,
+  "journal of huazhong normal university",
+  "journal of huazhong normal university natural sciences "
+  ],
+  [0,
+  "journal of research practice",
+  "journal of software maintenance: research and practice"
+  ],
+  [0,
+  "journal of shaanxi university of science and technology",
+  "journal of shaanxi university of technology natural science edition "
+  ],
+  [1,
+  "journal of shaanxi university of science and technology",
+  "journal of shaanxi university of science   technology natural science edition "
+  ],
+  [0,
+  "the library quarterly",
+  "shan dong library quarterly"
+  ],
+  [1,
+  "the library quarterly",
+  "library quarterly"
+  ],
+  [0,
+  "the library quarterly",
+  "shandong library quarterly"
+  ],
+  [1,
+  "journal of shihezi university",
+  "journal of shihezi university natural science "
+  ],
+  [1,
+  "journal of shihezi university",
+  "journal of shihezi university philosophy and social sciences "
+  ],
+  [1,
+  "journal of shihezi university",
+  "journal of shihezi university  philosophy and social science "
+  ],
+  [0,
+  "international review of law",
+  "international review of law  computers and technology   law shaping technology  technology shaping the law"
+  ],
+  [0,
+  "international review of law",
+  "international review of law  computers and technology"
+  ],
+  [0,
+  "international review of law",
+  "international law review of wuhan university"
+  ],
+  [1,
+  "the vldb journal",
+  "vldb journal"
+  ],
+  [0,
+  "journal of modern pharmacy",
+  "chinese journal of modern applied pharmacy"
+  ],
+  [1,
+  "astronomy and astrophysics",
+  "astronomy and astrophysics review"
+  ],
+  [1,
+  "astronomy and astrophysics",
+  "astronomy   astrophysics"
+  ],
+  [0,
+  "chinese journal of entomology",
+  "chinese journal of applied entomology"
+  ],
+  [0,
+  "journal of general practice",
+  "journal of information science: principles and practice"
+  ],
+  [0,
+  "journal of general practice",
+  "journal of pharmaceutical practice"
+  ],
+  [0,
+  "information   culture",
+  "architecture   culture"
+  ],
+  [0,
+  "information   culture",
+  "culture   communication"
+  ],
+  [0,
+  "information   culture",
+  "theory culture   society"
+  ],
+  [0,
+  "information   culture",
+  "world culture"
+  ],
+  [0,
+  "information   culture",
+  "culture health   sexuality"
+  ],
+  [0,
+  "information   culture",
+  "media culture   society"
+  ],
+  [0,
+  "information   culture",
+  "science   culture review"
+  ],
+  [0,
+  "information   culture",
+  "law  culture and the humanities"
+  ],
+  [0,
+  "information   culture",
+  "culture   psychology"
+  ],
+  [0,
+  "information   culture",
+  "chinese classics   culture"
+  ],
+  [1,
+  "contemporary sociology",
+  "contemporary sociology a journal of reviews"
+  ],
+  [0,
+  "journal of applied pharmacy",
+  "chinese journal of modern applied pharmacy"
+  ],
+  [1,
+  "culture health   sexuality",
+  "culture health   sexuality"
+  ]
+]
