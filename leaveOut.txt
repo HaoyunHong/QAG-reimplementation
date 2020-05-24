@@ -1,0 +1,8 @@
+  [0,
+  "information   culture",
+  "law  culture and the humanities"
+  ],
+  [0,
+  "information   culture",
+  "culture   psychology"
+  ],

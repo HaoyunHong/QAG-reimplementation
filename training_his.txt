@@ -1,0 +1,350 @@
+epoch: 0
+ 
+train loss = 0.1494
+train accuracy = 70.24%
+valid loss = 0.1367
+valid accuracy = 76.39%
+------------------------------
+epoch: 1
+ 
+train loss = 0.1347
+train accuracy = 76.31%
+valid loss = 0.1331
+valid accuracy = 77.50%
+------------------------------
+epoch: 2
+ 
+train loss = 0.1285
+train accuracy = 79.88%
+valid loss = 0.1372
+valid accuracy = 76.11%
+------------------------------
+epoch: 3
+ 
+train loss = 0.1370
+train accuracy = 76.43%
+valid loss = 0.1350
+valid accuracy = 76.94%
+------------------------------
+epoch: 4
+ 
+train loss = 0.1291
+train accuracy = 78.57%
+valid loss = 0.1384
+valid accuracy = 75.00%
+------------------------------
+epoch: 5
+ 
+train loss = 0.1303
+train accuracy = 78.33%
+valid loss = 0.1323
+valid accuracy = 76.94%
+------------------------------
+epoch: 6
+ 
+train loss = 0.1286
+train accuracy = 78.93%
+valid loss = 0.1423
+valid accuracy = 72.78%
+------------------------------
+epoch: 7
+ 
+train loss = 0.1252
+train accuracy = 80.00%
+valid loss = 0.1434
+valid accuracy = 72.78%
+------------------------------
+epoch: 8
+ 
+train loss = 0.1183
+train accuracy = 83.10%
+valid loss = 0.1346
+valid accuracy = 75.56%
+------------------------------
+epoch: 9
+ 
+train loss = 0.1211
+train accuracy = 82.26%
+valid loss = 0.1378
+valid accuracy = 75.28%
+------------------------------
+epoch: 10
+ 
+train loss = 0.1230
+train accuracy = 82.02%
+valid loss = 0.1308
+valid accuracy = 78.06%
+------------------------------
+epoch: 11
+ 
+train loss = 0.1240
+train accuracy = 81.31%
+valid loss = 0.1305
+valid accuracy = 78.89%
+------------------------------
+epoch: 12
+ 
+train loss = 0.1169
+train accuracy = 84.40%
+valid loss = 0.1377
+valid accuracy = 75.56%
+------------------------------
+epoch: 13
+ 
+train loss = 0.1201
+train accuracy = 82.86%
+valid loss = 0.1368
+valid accuracy = 76.39%
+------------------------------
+epoch: 14
+ 
+train loss = 0.1200
+train accuracy = 83.10%
+valid loss = 0.1355
+valid accuracy = 77.22%
+------------------------------
+epoch: 15
+ 
+train loss = 0.1189
+train accuracy = 83.45%
+valid loss = 0.1302
+valid accuracy = 79.17%
+------------------------------
+epoch: 16
+ 
+train loss = 0.1180
+train accuracy = 83.57%
+valid loss = 0.1279
+valid accuracy = 80.00%
+------------------------------
+epoch: 17
+ 
+train loss = 0.1130
+train accuracy = 85.83%
+valid loss = 0.1266
+valid accuracy = 80.00%
+------------------------------
+epoch: 18
+ 
+train loss = 0.1115
+train accuracy = 86.55%
+valid loss = 0.1271
+valid accuracy = 80.28%
+------------------------------
+epoch: 19
+ 
+train loss = 0.1161
+train accuracy = 84.29%
+valid loss = 0.1305
+valid accuracy = 79.17%
+------------------------------
+epoch: 20
+ 
+train loss = 0.1128
+train accuracy = 86.07%
+valid loss = 0.1262
+valid accuracy = 80.28%
+------------------------------
+epoch: 21
+ 
+train loss = 0.1121
+train accuracy = 86.43%
+valid loss = 0.1303
+valid accuracy = 78.61%
+------------------------------
+epoch: 22
+ 
+train loss = 0.1143
+train accuracy = 85.71%
+valid loss = 0.1294
+valid accuracy = 78.89%
+------------------------------
+epoch: 23
+ 
+train loss = 0.1122
+train accuracy = 85.95%
+valid loss = 0.1317
+valid accuracy = 78.33%
+------------------------------
+epoch: 24
+ 
+train loss = 0.1138
+train accuracy = 85.71%
+valid loss = 0.1277
+valid accuracy = 79.72%
+------------------------------
+epoch: 25
+ 
+train loss = 0.1124
+train accuracy = 86.31%
+valid loss = 0.1326
+valid accuracy = 78.33%
+------------------------------
+epoch: 26
+ 
+train loss = 0.1119
+train accuracy = 86.67%
+valid loss = 0.1325
+valid accuracy = 78.33%
+------------------------------
+epoch: 27
+ 
+train loss = 0.1135
+train accuracy = 85.71%
+valid loss = 0.1302
+valid accuracy = 79.17%
+------------------------------
+epoch: 28
+ 
+train loss = 0.1182
+train accuracy = 83.93%
+valid loss = 0.1444
+valid accuracy = 73.61%
+------------------------------
+epoch: 29
+ 
+train loss = 0.1200
+train accuracy = 83.21%
+valid loss = 0.1360
+valid accuracy = 76.67%
+------------------------------
+epoch: 30
+ 
+train loss = 0.1193
+train accuracy = 83.45%
+valid loss = 0.1343
+valid accuracy = 77.22%
+------------------------------
+epoch: 31
+ 
+train loss = 0.1232
+train accuracy = 81.79%
+valid loss = 0.1356
+valid accuracy = 76.94%
+------------------------------
+epoch: 32
+ 
+train loss = 0.1122
+train accuracy = 86.31%
+valid loss = 0.1352
+valid accuracy = 77.22%
+------------------------------
+epoch: 33
+ 
+train loss = 0.1112
+train accuracy = 86.79%
+valid loss = 0.1305
+valid accuracy = 78.89%
+------------------------------
+epoch: 34
+ 
+train loss = 0.1167
+train accuracy = 84.17%
+valid loss = 0.1311
+valid accuracy = 78.33%
+------------------------------
+epoch: 35
+ 
+train loss = 0.1145
+train accuracy = 85.24%
+valid loss = 0.1314
+valid accuracy = 78.61%
+------------------------------
+epoch: 36
+ 
+train loss = 0.1093
+train accuracy = 87.38%
+valid loss = 0.1292
+valid accuracy = 79.44%
+------------------------------
+epoch: 37
+ 
+train loss = 0.1147
+train accuracy = 85.24%
+valid loss = 0.1258
+valid accuracy = 80.83%
+------------------------------
+epoch: 38
+ 
+train loss = 0.1103
+train accuracy = 86.79%
+valid loss = 0.1345
+valid accuracy = 76.94%
+------------------------------
+epoch: 39
+ 
+train loss = 0.1114
+train accuracy = 86.67%
+valid loss = 0.1378
+valid accuracy = 76.39%
+------------------------------
+epoch: 40
+ 
+train loss = 0.1099
+train accuracy = 87.14%
+valid loss = 0.1302
+valid accuracy = 78.89%
+------------------------------
+epoch: 41
+ 
+train loss = 0.1078
+train accuracy = 88.21%
+valid loss = 0.1310
+valid accuracy = 78.89%
+------------------------------
+epoch: 42
+ 
+train loss = 0.1128
+train accuracy = 86.07%
+valid loss = 0.1287
+valid accuracy = 80.00%
+------------------------------
+epoch: 43
+ 
+train loss = 0.1109
+train accuracy = 86.90%
+valid loss = 0.1307
+valid accuracy = 79.17%
+------------------------------
+epoch: 44
+ 
+train loss = 0.1152
+train accuracy = 85.00%
+valid loss = 0.1369
+valid accuracy = 76.11%
+------------------------------
+epoch: 45
+ 
+train loss = 0.1112
+train accuracy = 86.55%
+valid loss = 0.1313
+valid accuracy = 78.61%
+------------------------------
+epoch: 46
+ 
+train loss = 0.1127
+train accuracy = 86.19%
+valid loss = 0.1362
+valid accuracy = 75.83%
+------------------------------
+epoch: 47
+ 
+train loss = 0.1109
+train accuracy = 86.67%
+valid loss = 0.1355
+valid accuracy = 77.22%
+------------------------------
+epoch: 48
+ 
+train loss = 0.1091
+train accuracy = 87.74%
+valid loss = 0.1335
+valid accuracy = 77.78%
+------------------------------
+epoch: 49
+ 
+train loss = 0.1102
+train accuracy = 87.02%
+valid loss = 0.1257
+valid accuracy = 81.11%
+------------------------------
