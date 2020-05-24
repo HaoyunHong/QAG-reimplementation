@@ -24,7 +24,7 @@ BATCH_SIZE = 4
 torch.manual_seed(1)
 
 # 准备训练集和验证集
-X_train, X_valid, y_train, y_valid = train_test_split(data.predictors, data.labels, test_size=0.3, random_state=1)
+X_train, X_valid, y_train, y_valid = train_test_split(data.predictors, data.labels, test_size=0.3, random_state=1, stratify=data.labels)
 
 sub_train_dataset = Data.TensorDataset(X_train, y_train)
 sub_train_loader = Data.DataLoader(
